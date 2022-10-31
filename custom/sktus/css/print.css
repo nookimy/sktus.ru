@@ -1,0 +1,108 @@
+@media print {
+  menu,
+  .header-contact,
+  a.backbutton,
+  footer,
+  .badge-rooms,
+  .badge-commercial,
+  .badge-commercialreal,
+  .badge-spec,
+  .badge-ipoteka,
+  .badge-tradein,
+  .badge-promo,
+  .badge-parking,
+  .dominfo-item,
+  .print-button,
+  .inside .section-wrap,
+  .garage-caption .dominfo-block-selectplace > span,
+  .commercial main > h1,
+  .poz1-commercial-section12,
+  .header-logo,
+  .shop_id_genplan,
+  .shop_id_fasad,
+  .garage-availability {
+    display: none;
+  }
+  .section-switch {
+    right: 100px;
+  }
+  .shop-item-container {
+    top: 100px;
+    min-height: 100px;
+    overflow: visible;
+  }
+  .shop-item-commercial-container {
+    top: 100px;
+  }
+  .floorpath-position {
+    bottom: 0;
+  }
+  .item-caption {
+    margin-top: 800px;
+  }
+  .item-params {
+    margin-top: 870px;
+  }
+  .compass-big img,
+  .compass-6a img,
+  .compass-7a img,
+  .compass-u38-1 img,
+  .compass-25 img,
+  .poz24-compass img {
+    display: none;
+  }
+  .compass-big:after {
+    content: url("../img/compass-big-print.png");
+  }
+  .section6a-switch,
+  .section7a-switch,
+  .lukina3-switch,
+  .u38-1-switch {
+    margin-top: 0;
+    top: 124px;
+  }
+  .compass-6a:after {
+    content: url("../img/compasses/compass-6a-print.png");
+  }
+  .compass-7a:after {
+    content: url("../img/compasses/compass-7a-print.png");
+  }
+  .compass-u38-1:after {
+    right: 100px;
+    top: 100px;
+    position: absolute;
+    content: url("../img/compasses/compass-u38-1-print.png");
+  }
+  .poz24-compass:after {
+    content: url("../img/poz24/compass-print.png");
+  }
+  .compass-25:after {
+    content: url("../img/poz25/compass-print.png");
+  }
+  .shop-item-big-images {
+    margin-top: 250px;
+  }
+  .floor-plan {
+    top: 0;
+    left: 0;
+    margin-top: -250px;
+    right: auto;
+  }
+  .swiper-lazy {
+    width: 80%;
+    height: auto;
+    filter: brightness(0);
+    }
+  .garage-plan {
+    -webkit-print-color-adjust: exact !important;
+    color-adjust: exact !important;
+  }
+  .garage-caption .dominfo-block-placecaption {
+    margin-top: 0;
+    margin-right: 100px;
+  }
+  .garage-caption .dominfo-block-caption {
+    margin-top: 20px;
+    margin-right: 130px;
+  }
+}

@@ -1,0 +1,307 @@
+.visually-hidden:not(:focus):not(:active),
+input[type="checkbox"].visually-hidden,
+input[type="radio"].visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    -webkit-clip-path: inset(100%);
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+.poz7a {
+    background-image: url("../img/poz7a/fon-pic.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 130px;
+    background-size: 2000px auto;
+    overflow-x: hidden;
+}
+.poz7a__wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 18px;
+    line-height: 1.25;
+    font-weight: 400;
+    font-family: "opensans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    background-color: rgba(255, 255, 255, 0.85);
+}
+.poz7a__text {
+    max-width: 90vw;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 400;
+    font-family: "opensans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+}
+.poz7a__title {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 30px;
+    line-height: 1.25;
+    font-weight: 400;
+    font-family: "opensans-semibold", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    text-transform: uppercase;
+}
+.poz7a__image {
+    display: block;
+}
+.poz7a__about-position {
+    width: 2000px;
+    margin-bottom: 95px;
+    padding-top: 60px;
+    color: #ffffff;
+    background-image: -webkit-gradient(linear, left bottom, left top, from(#ef5f3b), to(#e61c57));
+    background-image: linear-gradient(to top, #ef5f3b 0%, #e61c57 100%);
+    -webkit-clip-path: polygon(100% 0, 100% 29.4%, 55.5% 86.1%, 55.5% 100%, 0 100%, 0 0);
+    clip-path: polygon(100% 0, 100% 29.4%, 55.5% 86.1%, 55.5% 100%, 0 100%, 0 0);
+}
+@media (min-width: 900px) {
+    .poz7a__about-position {
+        -webkit-clip-path: polygon(100% 0, 100% 39.9%, 55.5% 85.5%, 55.5% 100%, 0 100%, 0 0);
+        clip-path: polygon(100% 0, 100% 39.9%, 55.5% 85.5%, 55.5% 100%, 0 100%, 0 0);
+    }
+}
+@media (min-width: 1000px) {
+    .poz7a__about-position {
+        -webkit-clip-path: polygon(100% 0, 100% 29.4%, 51.7% 85.5%, 51.7% 100%, 0 100%, 0 0);
+        clip-path: polygon(100% 0, 100% 29.4%, 51.7% 85.5%, 51.7% 100%, 0 100%, 0 0);
+    }
+}
+.poz7a__about-position .poz7a__subtitle {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 22px;
+    line-height: 1;
+    font-weight: 400;
+    font-family: "opensans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    letter-spacing: 1.1px;
+}
+.poz7a__about-position .poz7a__subtitle::before,
+.poz7a__about-position .poz7a__subtitle::after {
+    content: "";
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    width: 100px;
+    height: 1px;
+    margin-top: 5px;
+    background-color: #ffffff;
+}
+.poz7a__about-position .poz7a__subtitle::before {
+    margin-right: 5px;
+}
+.poz7a__about-position .poz7a__subtitle::after {
+    margin-left: 5px;
+}
+.poz7a__about-position .poz7a__title {
+    text-align: center;
+    margin-bottom: 65px;
+}
+.poz7a__container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.poz7a__about-position ul {
+    width: 400px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-left: 65px;
+}
+@media (min-width: 1000px) {
+    .poz7a__about-position ul {
+        width: 550px;
+    }
+}
+.poz7a__about-position li {
+    width: 25vw;
+    margin-bottom: 15px;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 300;
+    font-family: "opensans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+}
+@media (min-width: 850px) {
+    .poz7a__about-position li {
+        width: 29vw;
+    }
+}
+@media (min-width: 1000px) {
+    .poz7a__about-position li {
+        width: 34vw;
+        max-width: 500px;
+    }
+}
+.poz7a__about-building {
+    position: relative;
+    width: 2000px;
+    margin-bottom: 90px;
+    padding-bottom: 370px;
+}
+.poz7a__about-building::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 2000px;
+    height: 740px;
+    background-image: url("../img/poz7a/dom.png");
+}
+.poz7a__about-building .poz7a__title {
+    width: 89vw;
+    margin: 0 auto 40px;
+    text-align: left;
+}
+.poz7a__about-building ul {
+    width: 89vw;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+}
+.poz7a__about-building li {
+    position: relative;
+    width: 600px;
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+.poz7a__about-building li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 7px;
+    width: 10px;
+    height: 10px;
+    background-color: #e6245a;
+    border-radius: 50%;
+}
+.poz7a__about-flat {
+    position: relative;
+    width: 2000px;
+    padding-bottom: 470px;
+}
+.poz7a__about-flat::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 2000px;
+    height: 825px;
+    background-image: url("../img/poz7a/kvartira2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.poz7a__about-flat .poz7a__title {
+    width: 89vw;
+    margin: 0 auto 40px;
+    text-align: left;
+}
+.poz7a__about-flat ul {
+    width: 89vw;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+}
+.poz7a__about-flat li {
+    position: relative;
+    width: 500px;
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+@media (min-width: 1000px) {
+    .poz7a__about-flat li {
+        width: 600px;
+    }
+}
+.poz7a__about-flat li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 7px;
+    width: 14px;
+    height: 10px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16.4 10.8'%3E%3Cpath fill='%23E6245A' d='M1.2 2.8l5.6 5.6L15.2 0l1.2 1.2-9.6 9.6L0 4l1.2-1.2'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+.poz7a__flat-advantages {
+    position: relative;
+    width: 2000px;
+    padding: 80px 0 180px;
+}
+.poz7a__flat-advantages::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 2000px;
+    height: 825px;
+    background-image: url("../img/poz7a/preim.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.poz7a__flat-advantages .poz7a__image-wrapper {
+    width: 1028px;
+    margin: 0 auto;
+}
+.poz7a__flat-advantages .poz7a__title {
+    margin-bottom: 50px;
+}
+.poz7a__flat-advantages ul {
+    width: 1070px;
+    margin: 0 auto 70px;
+    padding: 0;
+    list-style: none;
+}
+.poz7a__flat-advantages li {
+    position: relative;
+    width: 400px;
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+.poz7a__flat-advantages li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 7px;
+    width: 14px;
+    height: 10px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16.4 10.8'%3E%3Cpath fill='%23E6245A' d='M1.2 2.8l5.6 5.6L15.2 0l1.2 1.2-9.6 9.6L0 4l1.2-1.2'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}

@@ -1,0 +1,14 @@
+.captcha .block {
+  text-align: center;
+  padding: 20px;
+}
+
+.captcha .block .input-title {
+    display: block;
+}
+
+.show_all a {
+  text-align: center;
+  display: inline-block;
+  color: black;
+}
