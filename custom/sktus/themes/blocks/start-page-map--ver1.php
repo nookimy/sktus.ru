@@ -76,7 +76,7 @@ if (!defined('DIAFAN')) {
 
         <i class="house-number house-number-gray house-number-21">21</i>
         <i class="house-number house-number-gray house-number-22">22</i>
-        <i class="house-number house-number-gray house-number-23">23</i>
+        <i class="house-number house-number-yellow house-number-23">23</i>
         <i class="house-number house-number-gray house-number-24">24</i>
         <i class="house-number house-number-gray house-number-25">25</i>
         <i class="house-number house-number-green house-number-26">26</i>
@@ -126,7 +126,7 @@ if (!defined('DIAFAN')) {
 
     <area shape="poly" coords="793, 163, 823, 158, 850, 160, 851, 196, 799, 198, 797, 277, 791, 271" class="area-buble" data-position="21" data-address="Миначева, 19 к.1" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
     <area shape="poly" coords="799, 205, 834, 198, 862, 207, 856, 326, 800, 327" class="area-buble" data-position="22" data-address="Миначева, 17 к.1" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
-    <area shape="poly" coords="784, 376, 883, 346, 915, 301, 957, 300, 966, 325, 964, 437, 814, 491, 778, 477" class="area-buble area-bubble-nolink" data-position="23" data-status="Проект" href="#"/>
+    <area shape="poly" coords="784, 376, 883, 346, 915, 301, 957, 300, 966, 325, 964, 437, 814, 491, 778, 477" class="area-buble area-bubble-nolink" data-position="23" data-status="Открытие продаж скоро!" href="#"/>
     <area shape="poly" coords="329, 384, 367, 383, 468, 413, 664, 419, 726, 404, 747, 416, 745, 519, 653, 555, 642, 551, 547, 572, 544, 537, 497, 517, 497, 505, 467, 496, 462, 508, 432, 521, 428, 496, 378, 468, 379, 461, 358, 454, 330, 468" class="area-buble" data-position="24" data-address="Миначева, 11" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
     <area shape="poly" coords="399, 365, 520, 320, 673, 372, 673, 407, 490, 399, 445, 405, 400, 388" class="area-buble area-bubble-nolink" data-position="25" data-address="Миначева, 11 к.1" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
 
@@ -135,7 +135,7 @@ if (!defined('DIAFAN')) {
     <area shape="poly" coords="227, 795, 348, 778, 521, 700, 560, 725, 559, 824, 418, 896, 368, 927, 248, 943, 231, 894" class="area-buble area-bubble-nolink" data-position="6a" data-address="Лукина, 20" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
     <area shape="poly" coords="610, 666, 801, 748, 796, 848, 749, 873, 573, 783, 572, 683" class="area-buble area-bubble-nolink" data-position="7a" data-address="Лукина, 18" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
     <area shape="poly" coords="719, 540, 832, 580, 830, 670, 791, 688, 685, 639, 687, 553" class="area-buble area-bubble-nolink" data-position="8a" data-status="Проект" href="#"/>
-    <area shape="poly" coords="369, 213, 549, 213, 548, 256, 568, 256, 568, 303, 489, 303, 489, 286, 436, 286, 391, 269, 362, 277, 357, 297, 343, 297, 344, 274" class="area-buble area-bubble-nolink" data-position="33" data-status="Школа<br>на 1500 мест" href="#"/>
+    <area shape="poly" coords="369, 213, 549, 213, 548, 256, 568, 256, 568, 303, 489, 303, 489, 286, 436, 286, 391, 269, 362, 277, 357, 297, 343, 297, 344, 274" class="area-buble area-bubble-nolink" data-position="33" data-status="Школа<br>на 1500 мест<br>Строится!" href="#"/>
     <area shape="poly" coords="664, 361, 738, 337, 802, 353, 802, 366, 777, 374, 778, 420, 752, 429, 750, 409, 692, 398, 690, 410, 673, 411, 676, 370" class="area-buble area-bubble-nolink" data-position="34" data-address="Детский сад" data-status="Строительство"/>
     <area shape="poly" coords="721, 205, 731, 198, 740, 192, 761, 199, 784, 192, 795, 192, 790, 239, 777, 245, 763, 236, 764, 227, 736, 235, 721, 229" class="area-buble area-bubble-nolink" data-position="35" data-address="Детский сад" data-status="Сдан."/>
   </map>
