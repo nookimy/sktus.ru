@@ -576,7 +576,7 @@ if (!defined("DIAFAN")) {
         <div class="documents__folder-wrap">
             <div class="documents__folder">
                 <div class="documents__folder-heading documents__folder-heading--in">
-                    <a>Документы по позиции 23 <span>6 файлов</span></a>
+                    <a>Документы по позиции 23 <span>10 файлов</span></a>
                 </div>
                 <ul class="documents__list">
                     <li>
@@ -589,7 +589,16 @@ if (!defined("DIAFAN")) {
                         <a href="/userfiles/doc/poz23/poz23-vypiska-tuhy-7906-tus.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Выписка ЕГРН 7906_ТУС</a>
                     </li>
                     <li>
+                        <a href="/userfiles/doc/poz23/poz23-gradplan-3972.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Градплан 3972</a>
+                    </li>
+                    <li>
+                        <a href="/userfiles/doc/poz23/poz23-gradplan-5085.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Градплан 5085</a>
+                    </li>
+                    <li>
                         <a href="/userfiles/doc/poz23/poz23-zaklyuchenie-ekspertizy.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Заключение экспертизы</a>
+                    </li>
+                    <li>
+                        <a href="/userfiles/doc/poz23/poz23-izveshchenie-o-nachale-stroitelstva.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Извещение о начале строительства</a>
                     </li>
 
                     <li>
@@ -598,6 +607,9 @@ if (!defined("DIAFAN")) {
 
                     <li>
                         <a href="/userfiles/doc/poz23/poz23-razreshenie-na-stroitelstvo.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Разрешение на строительство с новым сроком</a>
+                    </li>
+                    <li>
+                        <a href="/userfiles/doc/poz23/poz23-tipovaya-forma-ddu.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Типовая форма ДДУ</a>
                     </li>
 
 
