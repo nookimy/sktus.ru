@@ -89,6 +89,25 @@ if (!defined("DIAFAN")) {
         <h2 class="visually-hidden">Специальные предложения</h2>
         <ul class="action__list owl-carousel owl-theme">
             <li class="action__item">
+                <a href="https://sktus.ru/m/news/chto-novenkogo-start-prodazh-pozitsii-23/">
+                    <h3 class="visually-hidden">Открытие продаж по позиции 23</h3>
+                    <picture>
+                        <img class="slider__image" src="/img/action/start-poz23-mob.png"
+                             alt="Открытие продаж по позиции 23">
+                    </picture>
+                </a>
+            </li>
+            <li class="action__item">
+                <a href="https://sktus.ru/m/news/chto-novenkogo-start-prodazh-pozitsii-23/">
+                    <h3 class="visually-hidden">Скоро сдача дома по позиции 8</h3>
+                    <picture>
+                        <img class="slider__image" src="/img/action/sdacha-poz8-mob.png"
+                             alt="Скоро сдача дома по позиции 8">
+                    </picture>
+                </a>
+            </li>
+
+            <li class="action__item">
                 <a href="https://sktus.ru/m/news/stroitelnaya-kompaniya-tus-snizhaet--protsentnye-s/">
                     <h3 class="visually-hidden">Снизили ставку по ипотеке</h3>
                     <picture>

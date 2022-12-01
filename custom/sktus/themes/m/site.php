@@ -102,6 +102,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   }
               }
           });
+          $(".newsphotos1item.owl-carousel").owlCarousel({
+              dots: true,
+              center: false,
+              loop:false,
+              nav: false,
+              margin: 20,
+              items:1,
+          });
       });
   </script>
 <script type="text/javascript" src="<insert name="custom" path="js/jquery.modal.min.js" absolute="true">"></script>
