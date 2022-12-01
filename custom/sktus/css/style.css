@@ -1809,7 +1809,12 @@ main h1 {
   width: 165px;
   margin-left: 979px;
   margin-top: -320px;
+}
 
+.comfort-class--poz23 {
+  width: 165px;
+  margin-left: 798px;
+  margin-top: -12px;
 }
 
 
@@ -2874,11 +2879,12 @@ main h1 {
   height: 120px;
   background-color: #7d7d7d;
 }
+
 .hover-info23 {
   display: block;
-  height: 110px;
-  margin-left: 709px;
-  margin-top: 251px;
+  height: 120px;
+  margin-left: 720px;
+  margin-top: 207px;
   background-image: url("../img/hover-info-yellow.png");
 }
 .hover-info23 div {
@@ -2889,7 +2895,7 @@ main h1 {
   display: block;
   height: 144px;
   margin-left: 401px;
-  margin-top: 260px;
+  margin-top: 250px;
   background-image: url("../img/hover-info-gray.png");
 }
 .hover-info24 div {

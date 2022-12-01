@@ -96,6 +96,9 @@ if (!defined('DIAFAN')) {
   <div class="comfort-class comfort-class--poz8">
     <i class="house-comfort">Продажи открыты!</i>
   </div>
+    <div class="comfort-class comfort-class--poz23">
+        <i class="house-comfort">Продажи открыты!</i>
+    </div>
   <map name="areamap">
     <!-- <area shape="poly" coords="213, 137, 220, 125, 272, 115, 292, 124, 316, 119, 344, 130, 425, 112, 507, 126, 507, 135, 539, 143, 537, 215, 428, 213, 393, 200, 265, 237, 247, 248, 209, 245, 211, 234, 218, 227" class="area-buble area-bubble-nolink" data-position="1" data-address="(ул. Лукина д.5)" data-status="Дом сдан"  data-apartments="Квартиры проданы" href="#"/>
     <area shape="poly" coords="469, 91, 544, 75, 569, 85, 663, 83, 666, 95, 754, 109, 754, 170, 714, 174, 713, 121, 658, 107, 621, 104, 588, 109, 510, 126, 470, 116" class="area-buble area-bubble-nolink" data-position="2" data-address="(ул. Лукина д.1)" data-status="Дом сдан" data-apartments="Квартиры проданы" href="#" />
@@ -107,7 +110,7 @@ if (!defined('DIAFAN')) {
     <area shape="poly" coords="916, 258, 1018, 259, 1131, 234, 1156, 197, 1189, 198, 1200, 212, 1196, 329, 1131, 346, 1137, 287, 1118, 283, 1063, 285, 1045, 305, 1022, 305, 993, 314, 992, 347, 970, 345, 966, 311, 954, 297, 914, 294" class="area-buble" data-position="7" data-address="ул. Академика Х.М.Миначева д.17" data-apartments="Квартиры проданы"/>
 
     <area shape="poly"
-          coords="998, 316, 1061, 313, 1069, 289, 1130, 290, 1127, 363, 1135, 374, 1108, 386, 1108, 400, 1053, 383, 993, 402" class="area-buble area-bubble-nolink"
+          coords="998, 316, 1061, 313, 1069, 289, 1130, 290, 1127, 363, 1135, 374, 1108, 386, 1108, 400, 1053, 383, 993, 402" class="area-buble"
           data-position="8" data-status="Дом строится" data-apartments="Квартиры в продаже"
           href="javascript:void()" onclick="pb_front_widget.show({houseId: 99328, accountId: 5828});"/>
 
@@ -115,22 +118,27 @@ if (!defined('DIAFAN')) {
     <area shape="poly" coords="1086, 410, 1098, 401, 1113, 406, 1115, 384, 1145, 379, 1144, 356, 1189, 342, 1224, 348, 1225, 371, 1268, 384, 1263, 459, 1240, 471, 1193, 455, 1130, 483, 1129, 430, 1086, 422" class="area-buble area-bubble-nolink" data-position="11" data-status="Проект" href="#"/>
 
     <area shape="poly" 
-    coords="252, 593, 267, 587, 269, 572, 327, 558, 389, 590, 396, 740, 314, 772, 260, 743" class="area-buble"
-    data-position="1"  data-status="Дом строится" data-apartments="Квартиры в продаже" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});"/>
+        coords="252, 593, 267, 587, 269, 572, 327, 558, 389, 590, 396, 740, 314, 772, 260, 743" class="area-buble"
+        data-position="1"  data-status="Дом строится" data-apartments="Квартиры в продаже"
+        href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});"/>
+
     <area shape="poly" 
-    coords="411, 540, 432, 533, 432, 521, 475, 510, 490, 510, 491, 519, 543, 542, 545, 680, 473, 704, 418, 677" class="area-buble"
-    data-position="2"  data-status="Дом строится" data-apartments="Квартиры в продаже" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});""/>
+        coords="411, 540, 432, 533, 432, 521, 475, 510, 490, 510, 491, 519, 543, 542, 545, 680, 473, 704, 418, 677" class="area-buble"
+        data-position="2"  data-status="Дом строится" data-apartments="Квартиры в продаже" href="javascript:void()"
+        onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});""/>
+
     <area shape="poly" 
-    coords="300, 495, 317, 488, 319, 477, 361, 463, 375, 464, 376, 475, 428, 497, 425, 530, 410, 536, 411, 637, 393, 642, 391, 590, 335, 563, 336, 554, 302, 546" class="area-buble"
-    data-position="3"  data-status="Дом строится" data-apartments="Квартиры в продаже" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94199, accountId: 5828});"/>
+        coords="300, 495, 317, 488, 319, 477, 361, 463, 375, 464, 376, 475, 428, 497, 425, 530, 410, 536, 411, 637, 393, 642, 391, 590, 335, 563, 336, 554, 302, 546" class="area-buble"
+        data-position="3"  data-status="Дом строится" data-apartments="Квартиры в продаже"
+        href="javascript:void()" onclick="pb_front_widget.show({houseId: 94199, accountId: 5828});"/>
 
     <area shape="poly" coords="793, 163, 823, 158, 850, 160, 851, 196, 799, 198, 797, 277, 791, 271" class="area-buble" data-position="21" data-address="Миначева, 19 к.1" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
     <area shape="poly" coords="799, 205, 834, 198, 862, 207, 856, 326, 800, 327" class="area-buble" data-position="22" data-address="Миначева, 17 к.1" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
 
-      <area shape="poly"
-          coords="784, 376, 883, 346, 915, 301, 957, 300, 966, 325, 964, 437, 814, 491, 778, 477" class="area-buble"
-          data-position="23" data-status="Дом строится" data-apartments="Квартиры в продаже"
-          href="javascript:void()" onclick="pb_front_widget.show({houseId: 104698, accountId: 5828});"/>
+    <area shape="poly"
+      coords="784, 376, 883, 346, 915, 301, 957, 300, 966, 325, 964, 437, 814, 491, 778, 477" class="area-buble"
+      data-position="23" data-status="Дом строится" data-apartments="Квартиры в продаже"
+      href="javascript:void()" onclick="pb_front_widget.show({houseId: 104698, accountId: 5828});"/>
 
     <area shape="poly" coords="329, 384, 367, 383, 468, 413, 664, 419, 726, 404, 747, 416, 745, 519, 653, 555, 642, 551, 547, 572, 544, 537, 497, 517, 497, 505, 467, 496, 462, 508, 432, 521, 428, 496, 378, 468, 379, 461, 358, 454, 330, 468" class="area-buble" data-position="24" data-address="Миначева, 11" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
     <area shape="poly" coords="399, 365, 520, 320, 673, 372, 673, 407, 490, 399, 445, 405, 400, 388" class="area-buble area-bubble-nolink" data-position="25" data-address="Миначева, 11 к.1" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
