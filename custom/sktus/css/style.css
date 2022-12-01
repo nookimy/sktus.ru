@@ -378,7 +378,7 @@ body.bluebg {
 .badge-parking div {
   display: none;
   position: relative;
-  min-height: 240px;
+  min-height: 162px;
   padding-top: 14px;
   margin-left: 83px;
   margin-top: 13px;
@@ -9047,4 +9047,106 @@ summary::-webkit-details-marker {
   padding-bottom: 24px;
   text-align: center;
   line-height: 1.2;
+}
+
+/*Преимущества на главной странице*/
+div.my_boks01, div.my_boks02, div.my_boks03, div.my_boks04, div.my_boks05 {
+  margin: 5px;
+  padding: 0px 0px;
+  display: inline-block;
+  width: 250px;
+  box-sizing: border-box;
+}
+div.adv {
+  text-align:center;
+}
+
+
+.wrap1000 {
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto;
+  height: auto;
+}
+.mainadv h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 22px;
+  color: #3f5556;
+  font-family: "opensans-semibold";
+  margin-bottom: 20px;
+}
+
+.mainadv {
+  background: #ffffff;
+}
+
+.why {
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: bold;
+  font-size: 22px;
+  color: #c6084e;
+  font-family: "opensans-semibold";
+}
+
+.iconblock-5 {
+  position: relative;
+  margin:60px 0 20px 0;
+  border: 1px solid #C5C5C5;
+  transition: transform 300ms ease, box-shadow 300ms ease;
+  text-align:center;
+}
+.iconblock-5 .icon {
+  display: block;
+  position: absolute;
+  left: 50%;
+  width: 80px;
+  transform: translate(-50%, -50%);
+}
+.iconblock-5 .icon i,
+.iconblock-5 .icon img
+{
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  font-size: 32px;
+  transform: translate(-50%, -50%);
+  color: #337AB7;
+  width: 80px;
+  height: 80px;
+}
+.iconblock-5 .icon svg path {
+  stroke-width: 8px;
+  stroke: #f787b0;
+  transition: stroke 300ms ease;
+}
+.iconblock-5 .icon svg polygon {
+  fill: white;
+}
+.iconblock-5 h3 {
+  transition: all 0.7s ease 0s;
+  color: #c6084e;
+  font-size:17px;
+  font-weight:bold;
+  margin:50px 0 10px 0;
+}
+.iconblock-5:hover h3 {
+  color: #000;
+}
+.iconblock-5:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 7px 10px 1px rgba(84, 84, 84, 0.5);
+}
+.iconblock-5:hover .icon svg path {
+  stroke: #c6084e;
+}
+.iconblock-5 p.desf {
+  margin: 0 0 10px;
+  line-height: 1.5;
+  color: #383838;
+}
+.iconblock-5 a {
+  text-decoration: none;
+  color: #c6084e;
 }

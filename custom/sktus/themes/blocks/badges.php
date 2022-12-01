@@ -61,7 +61,6 @@ if (!defined('DIAFAN')) {
     <a href="/pozitsiya-2---parking/">Лукина,1</a>
     <a href="/mashinomesta-lukina5/">Лукина, 5</a>
     <a href="/pozitsiya-6---nezhilye-pomescheniya/">Миначева, 19</a>
-    <a href="/pozitsiya-14---parking-1-uroven/">Герцена, 12 корп.1</a>
   </div>
 </div>
 <div title="Коммерческие площади" class="badge-commercialreal">
