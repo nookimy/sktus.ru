@@ -9150,3 +9150,14 @@ div.adv {
   text-decoration: none;
   color: #c6084e;
 }
+
+.newsphotos__item {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.newsphotos__img {
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  object-position: center;
+}

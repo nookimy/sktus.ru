@@ -77,6 +77,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   }
               }
           });
+          $(".newsphotos1item.owl-carousel").owlCarousel({
+              dots: true,
+              center: false,
+              loop:false,
+              nav: false,
+              margin: 20,
+              items:1,
+          });
       });
     </script>
   <insert name="show_custom_compressed_js" files="main.js">
