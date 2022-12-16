@@ -194,8 +194,8 @@ body.bluebg {
   height: 109px;
   position: absolute;
   display: block;
-  left: 89px;
-  top: 0;
+  left: -5px;
+  top: -20px;
   z-index: 13;
   background-color: transparent;
 }
