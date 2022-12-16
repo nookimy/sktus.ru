@@ -187,6 +187,9 @@ body.bluebg {
 }
 .header-logo {
   background-image: url("../img/header-logo-newyear.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
   width: 125px;
   height: 128px;
   position: absolute;
