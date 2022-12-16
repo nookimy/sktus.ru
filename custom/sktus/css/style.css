@@ -190,8 +190,8 @@ body.bluebg {
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
-  width: 125px;
-  height: 128px;
+  width: 306px;
+  height: 109px;
   position: absolute;
   display: block;
   left: 89px;
@@ -707,8 +707,9 @@ body.bluebg {
 
   .header-logo {
     left: 0;
-    top: 0;
+    top: -21px;
     z-index: 12;
+    transform: translateX(-32%);
   }
   .header-contact {
     top: 10px;
