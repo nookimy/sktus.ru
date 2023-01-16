@@ -350,33 +350,18 @@ img {
   text-align: center;
   z-index: -10;
 }
+
 .main-header__logo {
   position: relative;
   display: inline-block;
-  width: 43px;
-  height: 41px;
   z-index: 10;
 }
 
-.main-header__logo::before {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 97px;
-  height: 60px;
-  transform: translateX(-50%) translateY(-50%);
-  background: url("../../../img/main-header/header-logo-newyear.png") no-repeat center;
-  background-size: contain;
-}
-
-
-
 .main-header__logo-svg {
-  display: none;
   width: 43px;
   height: 41px;
 }
+
 .main-nav {
   display: -webkit-box;
   display: -ms-flexbox;
