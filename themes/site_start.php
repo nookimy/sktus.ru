@@ -40,7 +40,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <a class="slide4" href="https://sktus.ru/news/chto-novenkogo-start-prodazh-pozitsii-23/" target="_blank"></a>
       <a class="slide1" href="https://sktus.ru/news/stroitelnaya-kompaniya-tus-snizhaet--protsentnye-s/" target="_blank"></a>
       <a class="slide2" href="https://sktus.ru/news/prodazhi-kvartir-v-pozitsii-8-otkryty-dobro-pozhal/" target="_blank"></a>
-      <a class="slide3" href="https://sktus.ru/news/stroitelnaya-kompaniya-tus-otmechaet-30-let/" target="_blank"></a>
+
     </div>
     <!--Конец блока верхних баннеров-->
     <insert name="show_include" file="start-page-map--ver<?php echo isset($_COOKIE['start-page-version']) ? $_COOKIE['start-page-version'] : '1';?>">
