@@ -56,6 +56,7 @@ if (!defined('DIAFAN')) {
         <img data-src="/custom/sktus/img/hover-school.png" />
         <img data-src="/custom/sktus/img/hover-detsad1.png" />
         <img data-src="/custom/sktus/img/hover-detsad2.png" />
+        <img data-src="/custom/sktus/img/hover-parking-lukina20.png" />
     </div>
     <div class="house-numbers">
         <i class="house-number house-number-gray house-number-4">4</i>
@@ -138,10 +139,14 @@ if (!defined('DIAFAN')) {
     <area shape="poly" coords="719, 540, 832, 580, 830, 670, 791, 688, 685, 639, 687, 553" class="area-buble area-bubble-nolink" data-position="8a" data-status="Проект" href="#"/>
     <area shape="poly" coords="369, 213, 549, 213, 548, 256, 568, 256, 568, 303, 489, 303, 489, 286, 436, 286, 391, 269, 362, 277, 357, 297, 343, 297, 344, 274" class="area-buble area-bubble-nolink" data-position="33" data-status="Строится!" data-apartments="Школа на 1500 мест" href="#"/>
     <area shape="poly" coords="664, 361, 738, 337, 802, 353, 802, 366, 777, 374, 778, 420, 752, 429, 750, 409, 692, 398, 690, 410, 673, 411, 676, 370" class="area-buble area-bubble-nolink" data-position="34" data-address="Детский сад" data-status="Сдан"/>
-    <area shape="poly" coords="721, 205, 731, 198, 740, 192, 761, 199, 784, 192, 795, 192, 790, 239, 777, 245, 763, 236, 764, 227, 736, 235, 721, 229" class="area-buble area-bubble-nolink" data-position="35" data-address="Детский сад" data-status="Сдан"/>
+    <area
+            shape="poly"
+            coords="721, 205, 731, 198, 740, 192, 761, 199, 784, 192, 795, 192, 790, 239, 777, 245, 763, 236, 764, 227, 736, 235, 721, 229"
+            class="area-buble area-bubble-nolink" data-position="35" data-address="Детский сад" data-status="Сдан"/>
 
-    <area shape="poly" coords="410, 923, 570, 853, 698, 919, 699, 932, 464, 969, 410, 937" class="area-buble"
-          data-position="36" data-address="Паркинг" data-status="Парковочные места" data-apartments="в продаже"
+    <area shape="poly"
+          coords="410, 923, 570, 853, 698, 919, 699, 932, 464, 969, 410, 937"
+          class="area-buble" data-position="36" data-address="Паркинг" data-status="Парковочные места" data-apartments="в продаже"
           href="javascript:void()" onclick="pb_front_widget.show({houseId: 106066, accountId: 5828});"/>
   </map>
 </div>
