@@ -64,24 +64,14 @@ if (!defined('DIAFAN')) {
 
         <i class="house-number house-number-gray house-number-4">4</i>
         <i class="house-number house-number-gray house-number-5">5</i>
-        <i class="house-number house-number-gray house-number-6">6</i>
-        <i class="house-number house-number-gray house-number-7">7</i>
         <i class="house-number house-number-comfort house-number-8">8</i>
         <i class="house-number house-number-gray house-number-10">10</i>
         <i class="house-number house-number-gray house-number-11">11</i>
-
         <i class="house-number house-number-comfort house-number-1">1</i>
         <i class="house-number house-number-comfort house-number-2">2</i>
         <i class="house-number house-number-comfort house-number-3">3</i>
-
-        <i class="house-number house-number-gray house-number-21">21</i>
-        <i class="house-number house-number-gray house-number-22">22</i>
         <i class="house-number house-number-comfort house-number-23">23</i>
-        <i class="house-number house-number-gray house-number-24">24</i>
-        <i class="house-number house-number-gray house-number-25">25</i>
         <i class="house-number house-number-green house-number-26">26</i>
-        <i class="house-number house-number-gray house-number-6a">6a</i>
-        <i class="house-number house-number-gray house-number-7a">7a</i>
         <i class="house-number house-number-gray house-number-8a">8a</i>
     </div>
     <div class="object-numbers">
