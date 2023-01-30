@@ -1672,6 +1672,10 @@ main h1 {
   background-image: url("../img/playground.png");
 }
 
+.object-parking {
+  background-image: url("../img/parking.png");
+}
+
 /*Квадратики с номерами позиций*/
 /*.house-number-1 {
   margin-left: 358px;
@@ -1774,6 +1778,11 @@ main h1 {
   margin-top: 357px;
 }
 .object-number-4 {
+  margin-left: 732px;
+  margin-top: 192px;
+}
+
+.object-number-5 {
   margin-left: 732px;
   margin-top: 192px;
 }
@@ -2992,6 +3001,19 @@ main h1 {
   height: 96px;
   background-color: #578dd0;
 }
+
+.hover-info36 {
+  display: block;
+  height: 120px;
+  margin-left: 622px;
+  margin-top: 72px;
+  background-image: url("../img/hover-info-red.png");
+}
+.hover-info36 div {
+  height: 96px;
+  background-color: #af2715;
+}
+
 
 .poz3-section1 {
   display: block;

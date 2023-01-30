@@ -34,7 +34,6 @@ if (!defined('DIAFAN')) {
         </div>
     </div>
     <div class="area-hovers">
-
         <img data-src="/custom/sktus/img/hover-poz4.png" />
         <img data-src="/custom/sktus/img/hover-poz5.png" />
         <img data-src="/custom/sktus/img/hover-poz6.png" />
@@ -42,11 +41,9 @@ if (!defined('DIAFAN')) {
         <img data-src="/custom/sktus/img/hover-poz8.png" />
         <img data-src="/custom/sktus/img/hover-poz10.png" />
         <img data-src="/custom/sktus/img/hover-poz11.png" />
-
         <img data-src="/custom/sktus/img/hover-poz1.png" />
         <img data-src="/custom/sktus/img/hover-poz2.png" />
         <img data-src="/custom/sktus/img/hover-poz3.png" />
-
         <img data-src="/custom/sktus/img/hover-poz21.png" />
         <img data-src="/custom/sktus/img/hover-poz22.png" />
         <img data-src="/custom/sktus/img/hover-poz23.png" />
@@ -61,7 +58,6 @@ if (!defined('DIAFAN')) {
         <img data-src="/custom/sktus/img/hover-detsad2.png" />
     </div>
     <div class="house-numbers">
-
         <i class="house-number house-number-gray house-number-4">4</i>
         <i class="house-number house-number-gray house-number-5">5</i>
         <i class="house-number house-number-comfort house-number-8">8</i>
@@ -79,6 +75,7 @@ if (!defined('DIAFAN')) {
         <i class="object-number object-bank object-number-2"></i>
         <i class="object-number object-playground object-number-3"></i>
         <i class="object-number object-playground object-number-4"></i>
+        <i class="object-number object-parking object-number-5"></i>
     </div>
     <div class="comfort-class comfort-class--poz1-2-3">
         <i class="house-comfort">Продажи открыты!</i>
@@ -135,11 +132,16 @@ if (!defined('DIAFAN')) {
 
     <area shape="poly" coords="170, 213, 204, 216, 206, 298, 270, 311, 363, 301, 363, 277, 393, 273, 429, 287, 428, 344, 391, 358, 393, 384, 361, 373, 325, 384, 329, 424, 253, 443, 135, 387, 129, 275" class="area-buble" data-position="26" data-status="Дом сдан" data-apartments="Квартиры в продаже" href="javascript:void()" onclick="pb_front_widget.show({houseId: 80651, accountId: 5828});">
 
+
     <area shape="poly" coords="227, 795, 348, 778, 521, 700, 560, 725, 559, 824, 418, 896, 368, 927, 248, 943, 231, 894" class="area-buble area-bubble-nolink" data-position="6a" data-address="Лукина, 20" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
     <area shape="poly" coords="610, 666, 801, 748, 796, 848, 749, 873, 573, 783, 572, 683" class="area-buble area-bubble-nolink" data-position="7a" data-address="Лукина, 18" data-status="Дом сдан" data-apartments="Квартиры проданы"/>
     <area shape="poly" coords="719, 540, 832, 580, 830, 670, 791, 688, 685, 639, 687, 553" class="area-buble area-bubble-nolink" data-position="8a" data-status="Проект" href="#"/>
     <area shape="poly" coords="369, 213, 549, 213, 548, 256, 568, 256, 568, 303, 489, 303, 489, 286, 436, 286, 391, 269, 362, 277, 357, 297, 343, 297, 344, 274" class="area-buble area-bubble-nolink" data-position="33" data-status="Строится!" data-apartments="Школа на 1500 мест" href="#"/>
     <area shape="poly" coords="664, 361, 738, 337, 802, 353, 802, 366, 777, 374, 778, 420, 752, 429, 750, 409, 692, 398, 690, 410, 673, 411, 676, 370" class="area-buble area-bubble-nolink" data-position="34" data-address="Детский сад" data-status="Сдан"/>
     <area shape="poly" coords="721, 205, 731, 198, 740, 192, 761, 199, 784, 192, 795, 192, 790, 239, 777, 245, 763, 236, 764, 227, 736, 235, 721, 229" class="area-buble area-bubble-nolink" data-position="35" data-address="Детский сад" data-status="Сдан"/>
+
+    <area shape="poly" coords="410, 923, 570, 853, 698, 919, 699, 932, 464, 969, 410, 937" class="area-buble"
+          data-position="36" data-address="Паркинг" data-status="Парковочные места" data-apartments="в продаже"
+          href="javascript:void()" onclick="pb_front_widget.show({houseId: 106066, accountId: 5828});"/>
   </map>
 </div>
