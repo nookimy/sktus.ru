@@ -57,6 +57,7 @@ if (!defined('DIAFAN')) {
 <div title="Подземная парковка" class="badge-parking">
   <i></i>
   <div>
+    <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 106066, accountId: 5828});">Лукина 18/20</a>
     <a href="/mashinomesta-universitetskaya3/">Университетская, 38/3</a>
     <a href="/pozitsiya-2---parking/">Лукина,1</a>
     <a href="/mashinomesta-lukina5/">Лукина, 5</a>
