@@ -76,7 +76,7 @@ if (!defined('DIAFAN')) {
     <a href="/doma/pozitsiya-5---kommercheskie-ploschadi/">Позиция №5 | Миначева, д.21</a>
     <a href="/doma/pozitsiya-6a---kommercheskie-ploschadi/">Позиция №6а | Лукина, д.20</a>
     <a href="/doma/pozitsiya-7a---kommercheskie-ploschadi/">Позиция №7а | Лукина, д.18</a>
-    <a href="/doma/pozitsiya-26---kommercheskie-ploschadi/">Позиция №26</a>
+    <a href="/doma/pozitsiya-26---kommercheskie-ploschadi/">Позиция №26 | Лукина, д.9</a>
   </div>
 </div>
 <a class="badge-heart" href="https://sktus.ru/o-zastroyschike/nashi-dobrye-dela/"></a>
