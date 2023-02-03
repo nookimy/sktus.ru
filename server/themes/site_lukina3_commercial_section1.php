@@ -41,12 +41,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="#" class="backbutton"></a>    
     <insert name="show_commercialswitch" position="lukina3" section="1">
     <div class="section-wrap lukina3-commercial-section1">
-      <img src="/custom/sktus/img/lukina3/commercial/section1-map.png" class="areaimg" usemap="#areamap" />
+      <img src="/custom/sktus/img/poz3/commercial/section1-map.png" class="areaimg" usemap="#areamap" />
       <div class="pantryplaceinfo commercialplaceinfo">
         <p><strong></strong><span><i></i>м<sup>2</sup></span></p>
       </div>
       <div class="area-hovers">
-        <img data-src="/custom/sktus/img/lukina3/commercial/section1-room1.png" />
+        <img data-src="/custom/sktus/img/poz3/commercial/section1-room1.png" />
       </div>
       <map name="areamap">
         <area shape="poly" coords="0,307,1,353,22,354,22,477,297,477,297,407,148,406,135,393,134,288,17,286" class="area-pantryplace area-commercialplace" data-number="1" data-square="85,6" data-marginleft="40" data-margintop="320" href="#"/>

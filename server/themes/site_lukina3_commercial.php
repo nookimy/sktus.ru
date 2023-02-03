@@ -38,14 +38,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="compass-7a">
         <img src="/custom/sktus/img/compasses/compass-7a.png" />
      </div>
-      <img src="/custom/sktus/img/lukina3/commercial/map.png" class="areaimg" usemap="#areamap" />
+      <img src="/custom/sktus/img/poz3/commercial/map.png" class="areaimg" usemap="#areamap" />
       <div class="pantryinfo">
         <p class="pantryinfo-amount">Помещений в продаже: <span></span></p>
         <p class="pantryinfo-amount">Помещения проданы</p>
       </div>
       <div class="area-hovers">
-        <img data-src="/custom/sktus/img/lukina3/commercial/lukina3-section1.png" />
-        <img data-src="/custom/sktus/img/lukina3/commercial/lukina3-section2345.png" />
+        <img data-src="/custom/sktus/img/poz3/commercial/lukina3-section1.png" />
+        <img data-src="/custom/sktus/img/poz3/commercial/lukina3-section2345.png" />
       </div>
       <map name="areamap">
         <area shape="poly" coords="212,399,205,448,206,550,212,553,213,603,332,603,332,584,350,581,353,420,332,421,332,398" class="area-pantryinfo" data-poz="5" data-section="1"  data-amount="0" data-marginleft="100" data-margintop="450" href="/doma/lukina-3---kommercheskie-ploschadi/1-podezd/"/>
