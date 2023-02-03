@@ -48,7 +48,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img data-src="/custom/sktus/img/lukina3/commercial/lukina3-section2345.png" />
       </div>
       <map name="areamap">
-        <area shape="poly" coords="212,399,205,448,206,550,212,553,213,603,332,603,332,584,350,581,353,420,332,421,332,398" class="area-pantryinfo" data-poz="5" data-section="1"  data-amount="1" data-marginleft="100" data-margintop="450" href="/doma/lukina-3---kommercheskie-ploschadi/1-podezd/"/>
+        <area shape="poly" coords="212,399,205,448,206,550,212,553,213,603,332,603,332,584,350,581,353,420,332,421,332,398" class="area-pantryinfo" data-poz="5" data-section="1"  data-amount="0" data-marginleft="100" data-margintop="450" href="/doma/lukina-3---kommercheskie-ploschadi/1-podezd/"/>
         <area shape="poly" coords="211,69,212,250,207,251,205,271,211,276,211,375,221,377,221,400,332,402,331,382,352,381,354,221,334,219,331,200,310,195,309,180,407,180,407,201,545,202,546,180,581,180,583,201,744,202,745,181,769,180,768,60,336,58,247,59" class="area-pantryinfo area-bubble-nolink" data-poz="5" data-section="2, 3, 4, 5"  data-amount="0" data-marginleft="100" data-margintop="200" href="#"/>
       </map>
     </div>
