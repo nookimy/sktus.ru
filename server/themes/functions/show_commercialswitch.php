@@ -170,11 +170,11 @@ if ($position == "4") {
     <div class="compass-7a">
         <img src="/custom/sktus/img/compasses/compass-7a.png" />
     </div>
-    <img src="/custom/sktus/img/poz38-3/section-switch/map.png" class="switch-image switch-active' . $section . '" usemap="#switchmap" />
+    <img src="/custom/sktus/img/u38-3/section-switch/map.png" class="switch-image switch-active' . $section . '" usemap="#switchmap" />
     <div class="switch-hovers">
-      <img data-src="/custom/sktus/img/poz38-3/section-switch/1.png" />
-      <img data-src="/custom/sktus/img/poz38-3/section-switch/2.png" />
-      <img data-src="/custom/sktus/img/poz38-3/section-switch/6.png" />
+      <img data-src="/custom/sktus/img/u38-3/section-switch/1.png" />
+      <img data-src="/custom/sktus/img/u38-3/section-switch/2.png" />
+      <img data-src="/custom/sktus/img/u38-3/section-switch/6.png" />
     </div>
     <div>
         <map name="switchmap">

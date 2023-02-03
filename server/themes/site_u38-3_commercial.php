@@ -38,16 +38,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="compass-7a">
         <img src="/custom/sktus/img/compasses/compass-7a.png" />
      </div>
-      <img src="/custom/sktus/img/poz38-3/commercial/map.png" class="areaimg" usemap="#areamap" />
+      <img src="/custom/sktus/img/u38-3/commercial/map.png" class="areaimg" usemap="#areamap" />
       <div class="pantryinfo">
         <p class="pantryinfo-amount">Помещений в продаже: <span></span></p>
         <p class="pantryinfo-amount">Помещения проданы</p>
       </div>
       <div class="area-hovers">
-        <img data-src="/custom/sktus/img/poz38-3/commercial/1.png" />
-        <img data-src="/custom/sktus/img/poz38-3/commercial/2.png" />
-        <img data-src="/custom/sktus/img/poz38-3/commercial/5.png" />
-        <img data-src="/custom/sktus/img/poz38-3/commercial/6.png" />
+        <img data-src="/custom/sktus/img/u38-3/commercial/1.png" />
+        <img data-src="/custom/sktus/img/u38-3/commercial/2.png" />
+        <img data-src="/custom/sktus/img/u38-3/commercial/5.png" />
+        <img data-src="/custom/sktus/img/u38-3/commercial/6.png" />
       </div>
       <map name="areamap">
         <area shape="poly" coords="213,434,213,536,277,601,459,602,460,516,328,515,298,490,296,433" class="area-pantryinfo" data-poz="38-3" data-section="1"  data-amount="0" data-marginleft="336" data-margintop="510" href="/doma/universitetskaya-383---kommercheskie-ploschadi/1-podezd/"/>

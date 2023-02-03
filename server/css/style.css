@@ -2011,7 +2011,7 @@ main h1 {
   width: 1005px;
   height: 576px;
   margin-top: 124px;
-  background: url("../img/poz38-3/garage/places-out.png") left top no-repeat;
+  background: url("../img/u38-3/garage/places-out.png") left top no-repeat;
 }
 .lukina5-garage {
   width: 960px;
@@ -2471,24 +2471,24 @@ main h1 {
 .poz38-3-commercial-wrap {
   width: 1200px;
   height: 603px;
-  background-image: url("../img/poz38-3/commercial/bg.png");
+  background-image: url("../img/u38-3/commercial/bg.png");
 }
 .poz38-3-commercial-section1 {
-  background-image: url("../img/poz38-3/commercial/a-bg.png");
+  background-image: url("../img/u38-3/commercial/a-bg.png");
   margin: 0 auto;
   margin-top: 120px;
   width: 940px;
   height: 481px;
 }
 .poz38-3-commercial-section2 {
-  background-image: url("../img/poz38-3/commercial/b-bg.png");
+  background-image: url("../img/u38-3/commercial/b-bg.png");
   width: 940px;
   height: 481px;
   margin: 0 auto;
   margin-top: 120px;
 }
 .poz38-3-commercial-section4 {
-  background-image: url("../img/poz38-3/commercial/e-bg.png");
+  background-image: url("../img/u38-3/commercial/e-bg.png");
   width: 940px;
   height: 481px;
   margin: 0 auto;
@@ -3453,19 +3453,19 @@ main h1 {
   top: 10px;
 }
 .u38-3-switch {
-  background-image: url("../img/poz38-3/section-switch/bg.png");
+  background-image: url("../img/u38-3/section-switch/bg.png");
   width: 141px;
   height: 142px;
   top: 10px;
 }
 .u38-3-switch .switch-active1 {
-  background-image: url("../img/poz38-3/section-switch/1.png");
+  background-image: url("../img/u38-3/section-switch/1.png");
 }
 .u38-3-switch .switch-active2 {
-  background-image: url("../img/poz38-3/section-switch/2.png");
+  background-image: url("../img/u38-3/section-switch/2.png");
 }
 .u38-3-switch .switch-active6 {
-  background-image: url("../img/poz38-3/section-switch/6.png");
+  background-image: url("../img/u38-3/section-switch/6.png");
 }
 .u38-3-switch .compass-7a {
   top: 5px;

@@ -37,12 +37,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="#" class="backbutton"></a>
     <insert name="show_commercialswitch" position="u38-3" section="6">
     <div class="section-wrap poz38-3-commercial-section4">
-      <img src="/custom/sktus/img/poz38-3/commercial/section-map.png" class="areaimg" usemap="#areamap" />
+      <img src="/custom/sktus/img/u38-3/commercial/section-map.png" class="areaimg" usemap="#areamap" />
       <div class="pantryplaceinfo commercialplaceinfo">
         <p><strong></strong><span><i></i>м<sup>2</sup></span></p>
       </div>
       <div class="area-hovers">
-        <img data-src="/custom/sktus/img/poz38-3/commercial/e-bg-room.png" />
+        <img data-src="/custom/sktus/img/u38-3/commercial/e-bg-room.png" />
       </div>
       <map name="areamap">
         <area shape="poly" coords="200,355,200,424,214,424,215,472,431,472,428,320,322,318,319,352" class="area-pantryplace area-commercialplace" data-number="12" data-square="79" data-marginleft="240" data-margintop="370" href="#"/>
