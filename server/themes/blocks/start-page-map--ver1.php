@@ -22,7 +22,7 @@ if (!defined('DIAFAN')) {
     }
     include $path . '/includes/404.php';
 }
-?>
+?>   
 <div class="areawrap start-page-version-1">
     <img src="/custom/sktus/img/map.png" class="areaimg" usemap="#areamap" />
     <div class="hover-info">

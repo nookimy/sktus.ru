@@ -108,7 +108,7 @@ if (!defined("DIAFAN")) {
             </li>
 
             <li class="action__item">
-                <a href="https://sktus.ru/m/news/stroitelnaya-kompaniya-tus-snizhaet--protsentnye-s/">
+                <a href="https://sktus.ru/m/news/ipotechnye-stavki-v-2023-godu/">
                     <h3 class="visually-hidden">Снизили ставку по ипотеке</h3>
                     <picture>
                         <img class="slider__image" src="/img/action/ipoteka-family-mob.png"
