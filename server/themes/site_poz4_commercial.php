@@ -50,7 +50,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img data-src="/custom/sktus/img/poz4/commercial/section-g.png" />
       </div>
       <map name="areamap">
-        <area shape="poly" coords="2,268,195,458,237,497,335,320,338,298,288,196,228,127,157,118,130,123,87,132,49,155,11,193" class="area-pantryinfo" data-poz="3" data-section="А"  data-amount="2" data-marginleft="133" data-margintop="220" href="/doma/pozitsiya-4---kommercheskie-ploschadi/sektsiya-a/"/>
+        <area shape="poly" coords="2,268,195,458,237,497,335,320,338,298,288,196,228,127,157,118,130,123,87,132,49,155,11,193" class="area-pantryinfo" data-poz="3" data-section="А"  data-amount="0" data-marginleft="133" data-margintop="220" href="/doma/pozitsiya-4---kommercheskie-ploschadi/sektsiya-a/"/>
         <area shape="poly" coords="228,510,348,298,455,283,541,311,601,364,607,387,611,590,548,600,508,603,424,585,319,559" class="area-pantryinfo" data-poz="4" data-section="Б"  data-amount="0" data-marginleft="400" data-margintop="400" href="/doma/pozitsiya-4---kommercheskie-ploschadi/sektsiya-b/"/>
         <area shape="poly" coords="603,363,602,614,678,613,992,505,877,310,859,291,743,287,654,304" class="area-pantryinfo" data-poz="4" data-section="В"  data-amount="0" data-marginleft="720" data-margintop="400" href="/doma/pozitsiya-4---kommercheskie-ploschadi/sektsiya-v/"/>
         <area shape="poly" coords="865,290,980,481,993,475,1200,240,1194,168,1071,102,1041,95,970,125,902,186" class="area-pantryinfo" data-poz="4" data-section="Г"  data-amount="0" data-marginleft="980" data-margintop="220" href="/doma/pozitsiya-4---kommercheskie-ploschadi/sektsiya-g/"/>
