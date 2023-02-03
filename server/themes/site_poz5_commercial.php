@@ -54,8 +54,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <area shape="poly" coords="74,116,305,45,348,209,163,330,114,256" class="area-pantryinfo" data-poz="5" data-section="А"  data-amount="0" data-marginleft="139" data-margintop="145" href="/doma/pozitsiya-5---kommercheskie-ploschadi/sektsiya-a/"/>
         <area shape="poly" coords="164,329,356,210,431,280,475,356,392,528,323,497,239,421,190,371" class="area-pantryinfo" data-poz="5" data-section="Б"  data-amount="1" data-marginleft="270" data-margintop="320" href="/doma/pozitsiya-5---kommercheskie-ploschadi/sektsiya-b/"/>
         <area shape="poly" coords="391,527,482,352,558,343,627,357,677,407,685,599,659,599,507,578" class="area-pantryinfo" data-poz="5" data-section="В"  data-amount="0" data-marginleft="494" data-margintop="450" href="/doma/pozitsiya-5---kommercheskie-ploschadi/sektsiya-v/"/>
-        <area shape="poly" coords="682,599,672,393,736,347,804,327,869,338,979,508,944,531,706,599" class="area-pantryinfo" data-poz="5" data-section="Г"  data-amount="7" data-marginleft="770" data-margintop="440" href="/doma/pozitsiya-5---kommercheskie-ploschadi/sektsiya-g/"/>
-        <area shape="poly" coords="976,510,868,336,874,284,945,215,1001,215,1097,263,1131,343,1041,468" class="area-pantryinfo" data-poz="5" data-section="Д"  data-amount="4" data-marginleft="962" data-margintop="320" href="/doma/pozitsiya-5---kommercheskie-ploschadi/sektsiya-d/"/>
+        <area shape="poly" coords="682,599,672,393,736,347,804,327,869,338,979,508,944,531,706,599" class="area-pantryinfo" data-poz="5" data-section="Г"  data-amount="0" data-marginleft="770" data-margintop="440" href="/doma/pozitsiya-5---kommercheskie-ploschadi/sektsiya-g/"/>
+        <area shape="poly" coords="976,510,868,336,874,284,945,215,1001,215,1097,263,1131,343,1041,468" class="area-pantryinfo" data-poz="5" data-section="Д"  data-amount="0" data-marginleft="962" data-margintop="320" href="/doma/pozitsiya-5---kommercheskie-ploschadi/sektsiya-d/"/>
       </map>
     </div>
     <div class="garage-caption">
