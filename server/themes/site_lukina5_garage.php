@@ -35,7 +35,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </menu>
   <main>
     <a href="#" class="backbutton"></a>
-    <div class="compas"><img src="/custom/sktus/img/lukina5/garage/compas.png"></div>
+    <div class="compas"><img src="/custom/sktus/img/poz1/garage/compas.png"></div>
     <div class="lukina5-garage garage-plan">
       <img src="/custom/sktus/img/poz6/garage/b/map.png" class="areaimg" usemap="#areamap" />
       <div class="garageplaceinfo">
