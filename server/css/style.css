@@ -1823,8 +1823,8 @@ main h1 {
 
 .comfort-class--poz23 {
   width: 165px;
-  margin-left: 798px;
-  margin-top: -12px;
+  margin-left: 794px;
+  margin-top: -296px;
 }
 
 
@@ -2790,11 +2790,11 @@ main h1 {
   height: 120px;
   margin-left: 903px;
   margin-top: 175px;
-  background-image: url("../img/hover-info-yellow.png");
+  background-image: url("../img/hover-info-gray.png");
 }
 .hover-info8 div {
   height: 66px;
-  background-color: #d0a157;
+  background-color: #7d7d7d;
 }
 
 .hover-info10 {

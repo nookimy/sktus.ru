@@ -40,7 +40,6 @@ if (!defined('DIAFAN')) {
     <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});"><i>Дом строится</i> Позиция №1</a>
     <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});"><i>Дом строится</i> Позиция №2</a>
     <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94199, accountId: 5828});"><i>Дом строится</i> Позиция №3</a>
-    <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 99328, accountId: 5828});"><i>Дом строится</i> Позиция №8</a>
   </div>
 </div>
 <div title="Нежилые помещения" class="badge-commercial">

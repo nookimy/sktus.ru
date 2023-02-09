@@ -61,7 +61,7 @@ if (!defined('DIAFAN')) {
     <div class="house-numbers">
         <i class="house-number house-number-gray house-number-4">4</i>
         <i class="house-number house-number-gray house-number-5">5</i>
-        <i class="house-number house-number-comfort house-number-8">8</i>
+        <i class="house-number house-number-gray house-number-8">8</i>
         <i class="house-number house-number-gray house-number-10">10</i>
         <i class="house-number house-number-gray house-number-11">11</i>
         <i class="house-number house-number-comfort house-number-1">1</i>
@@ -81,9 +81,6 @@ if (!defined('DIAFAN')) {
     <div class="comfort-class comfort-class--poz1-2-3">
         <i class="house-comfort">Продажи открыты!</i>
     </div>
-  <div class="comfort-class comfort-class--poz8">
-    <i class="house-comfort">Продажи открыты!</i>
-  </div>
     <div class="comfort-class comfort-class--poz23">
         <i class="house-comfort">Продажи открыты!</i>
     </div>
@@ -98,9 +95,9 @@ if (!defined('DIAFAN')) {
     <area shape="poly" coords="916, 258, 1018, 259, 1131, 234, 1156, 197, 1189, 198, 1200, 212, 1196, 329, 1131, 346, 1137, 287, 1118, 283, 1063, 285, 1045, 305, 1022, 305, 993, 314, 992, 347, 970, 345, 966, 311, 954, 297, 914, 294" class="area-buble" data-position="7" data-address="ул. Академика Х.М.Миначева д.17" data-apartments="Квартиры проданы"/>
 
     <area shape="poly"
-          coords="998, 316, 1061, 313, 1069, 289, 1130, 290, 1127, 363, 1135, 374, 1108, 386, 1108, 400, 1053, 383, 993, 402" class="area-buble"
-          data-position="8" data-status="Дом строится" data-apartments="Квартиры в продаже"
-          href="javascript:void()" onclick="pb_front_widget.show({houseId: 99328, accountId: 5828});"/>
+          coords="998, 316, 1061, 313, 1069, 289, 1130, 290, 1127, 363, 1135, 374, 1108, 386, 1108, 400, 1053, 383, 993, 402" class="area-buble area-bubble-nolink"
+          data-position="8" data-status="Дом строится" data-apartments="Квартиры проданы"
+          href="!#"/>
 
     <area shape="poly" coords="915, 473, 959, 457, 958, 440, 994, 430, 995, 409, 1040, 390, 1083, 399, 1082, 422, 1130, 438, 1124, 515, 1090, 530, 1046, 512, 951, 556, 914, 547" class="area-buble area-bubble-nolink" data-position="10" data-status="Проект" href="#"/>
     <area shape="poly" coords="1086, 410, 1098, 401, 1113, 406, 1115, 384, 1145, 379, 1144, 356, 1189, 342, 1224, 348, 1225, 371, 1268, 384, 1263, 459, 1240, 471, 1193, 455, 1130, 483, 1129, 430, 1086, 422" class="area-buble area-bubble-nolink" data-position="11" data-status="Проект" href="#"/>
