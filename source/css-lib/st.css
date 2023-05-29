@@ -1,0 +1,63 @@
+.showroom {
+  position: relative;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.showroom__img-wrapper {
+  display: block;
+  position: relative;
+  width: 100%;
+  padding-top: 60%;
+}
+.showroom__img-wrapper img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+.showroom .icon__symbol {
+  fill: none;
+}
+.showroom .icon__color-element {
+  fill: inherit;
+  stroke: inherit;
+}
+.showroom .swiper-button-next,
+.showroom .swiper-button-prev {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  text-decoration: none;
+  background-color: transparent;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.showroom .swiper-button-next::after,
+.showroom .swiper-button-prev::after {
+  display: none;
+}
+.showroom .swiper-button-next .icon,
+.showroom .swiper-button-prev .icon {
+  width: 15px;
+  height: 23px;
+}
+.showroom .swiper-button-prev {
+  left: -25px;
+}
+.showroom .swiper-button-prev .icon {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.showroom .swiper-button-next {
+  right: -25px;
+}
