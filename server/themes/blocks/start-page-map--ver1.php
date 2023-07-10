@@ -22,7 +22,7 @@ if (!defined('DIAFAN')) {
     }
     include $path . '/includes/404.php';
 }
-?>   
+?>
 <div class="areawrap start-page-version-1">
     <img src="/custom/sktus/img/map.png" class="areaimg" usemap="#areamap" />
     <div class="hover-info">
@@ -61,7 +61,7 @@ if (!defined('DIAFAN')) {
     <div class="house-numbers">
         <i class="house-number house-number-gray house-number-4">4</i>
         <i class="house-number house-number-gray house-number-5">5</i>
-        <i class="house-number house-number-gray house-number-8">8</i>
+        <i class="house-number house-number-comfort house-number-8">8</i>
         <i class="house-number house-number-gray house-number-10">10</i>
         <i class="house-number house-number-gray house-number-11">11</i>
         <i class="house-number house-number-comfort house-number-1">1</i>
@@ -81,6 +81,9 @@ if (!defined('DIAFAN')) {
     <div class="comfort-class comfort-class--poz1-2-3">
         <i class="house-comfort">Продажи открыты!</i>
     </div>
+    <div class="comfort-class comfort-class--poz8">
+      <i class="house-comfort">Продажи открыты!</i>
+    </div>
     <div class="comfort-class comfort-class--poz23">
         <i class="house-comfort">Продажи открыты!</i>
     </div>
@@ -88,31 +91,31 @@ if (!defined('DIAFAN')) {
     <!-- <area shape="poly" coords="213, 137, 220, 125, 272, 115, 292, 124, 316, 119, 344, 130, 425, 112, 507, 126, 507, 135, 539, 143, 537, 215, 428, 213, 393, 200, 265, 237, 247, 248, 209, 245, 211, 234, 218, 227" class="area-buble area-bubble-nolink" data-position="1" data-address="(ул. Лукина д.5)" data-status="Дом сдан"  data-apartments="Квартиры проданы" href="#"/>
     <area shape="poly" coords="469, 91, 544, 75, 569, 85, 663, 83, 666, 95, 754, 109, 754, 170, 714, 174, 713, 121, 658, 107, 621, 104, 588, 109, 510, 126, 470, 116" class="area-buble area-bubble-nolink" data-position="2" data-address="(ул. Лукина д.1)" data-status="Дом сдан" data-apartments="Квартиры проданы" href="#" />
     <area shape="poly" coords="509, 122, 589, 112, 619, 109, 712, 124, 710, 183, 625, 213, 540, 194, 539, 141, 507, 135" class="area-buble area-bubble-nolink" data-position="3" data-address="(ул. Лукина д.3)" data-status="Дом сдан" data-apartments="Квартиры проданы" href="#"/> -->
-    
+
     <area shape="poly" coords="760, 121, 789, 105, 872, 103, 878, 95, 933, 100, 945, 130, 906, 128, 905, 185, 853, 184, 853, 156, 792, 154, 792, 186, 755, 183" class="area-buble area-bubble-nolink" data-position="4" data-address="(ул. Академика Х.М. Миначева  д.25)" data-apartments="Квартиры проданы" href="#"/>
     <area shape="poly" coords="910, 131, 956, 131, 955, 118, 996, 120, 996, 110, 1066, 111, 1109, 120, 1113, 129, 1113, 138, 1124, 149, 1073, 150, 1071, 176, 1007, 173, 1008, 188, 911, 185" class="area-buble area-bubble-nolink" data-position="5" data-address="(ул. Академика Х.М. Миначева  д.21)" data-apartments="Квартиры проданы" href="#"/>
     <area shape="poly" coords="896, 189, 1010, 192, 1013, 178, 1076, 178, 1077, 154, 1145, 156, 1194, 164, 1196, 179, 1210, 189, 1205, 292, 1195, 292, 1205, 211, 1196, 197, 1154, 196, 1125, 222, 918, 247, 909, 265, 889, 266, 886, 256, 894, 252" class="area-buble" data-position="6" data-address="ул. Академика Х.М.Миначева д.19" data-apartments="Квартиры проданы"/>
     <area shape="poly" coords="916, 258, 1018, 259, 1131, 234, 1156, 197, 1189, 198, 1200, 212, 1196, 329, 1131, 346, 1137, 287, 1118, 283, 1063, 285, 1045, 305, 1022, 305, 993, 314, 992, 347, 970, 345, 966, 311, 954, 297, 914, 294" class="area-buble" data-position="7" data-address="ул. Академика Х.М.Миначева д.17" data-apartments="Квартиры проданы"/>
 
     <area shape="poly"
-          coords="998, 316, 1061, 313, 1069, 289, 1130, 290, 1127, 363, 1135, 374, 1108, 386, 1108, 400, 1053, 383, 993, 402" class="area-buble area-bubble-nolink"
-          data-position="8" data-status="Дом строится" data-apartments="Квартиры проданы"
-          href="!#"/>
+          coords="998, 316, 1061, 313, 1069, 289, 1130, 290, 1127, 363, 1135, 374, 1108, 386, 1108, 400, 1053, 383, 993, 402" class="area-buble"
+          data-position="8" data-apartments="Квартиры в продаже"
+          href="javascript:void()" onclick="pb_front_widget.show({houseId: 99328, accountId: 5828});"/>
 
     <area shape="poly" coords="915, 473, 959, 457, 958, 440, 994, 430, 995, 409, 1040, 390, 1083, 399, 1082, 422, 1130, 438, 1124, 515, 1090, 530, 1046, 512, 951, 556, 914, 547" class="area-buble area-bubble-nolink" data-position="10" data-status="Проект" href="#"/>
     <area shape="poly" coords="1086, 410, 1098, 401, 1113, 406, 1115, 384, 1145, 379, 1144, 356, 1189, 342, 1224, 348, 1225, 371, 1268, 384, 1263, 459, 1240, 471, 1193, 455, 1130, 483, 1129, 430, 1086, 422" class="area-buble area-bubble-nolink" data-position="11" data-status="Проект" href="#"/>
 
-    <area shape="poly" 
+    <area shape="poly"
         coords="252, 593, 267, 587, 269, 572, 327, 558, 389, 590, 396, 740, 314, 772, 260, 743" class="area-buble"
         data-position="1"  data-status="Дом строится" data-apartments="Квартиры в продаже"
         href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});"/>
 
-    <area shape="poly" 
+    <area shape="poly"
         coords="411, 540, 432, 533, 432, 521, 475, 510, 490, 510, 491, 519, 543, 542, 545, 680, 473, 704, 418, 677" class="area-buble"
         data-position="2"  data-status="Дом строится" data-apartments="Квартиры в продаже" href="javascript:void()"
         onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});""/>
 
-    <area shape="poly" 
+    <area shape="poly"
         coords="300, 495, 317, 488, 319, 477, 361, 463, 375, 464, 376, 475, 428, 497, 425, 530, 410, 536, 411, 637, 393, 642, 391, 590, 335, 563, 336, 554, 302, 546" class="area-buble"
         data-position="3"  data-status="Дом строится" data-apartments="Квартиры в продаже"
         href="javascript:void()" onclick="pb_front_widget.show({houseId: 94199, accountId: 5828});"/>
