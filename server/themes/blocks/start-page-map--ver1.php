@@ -82,7 +82,7 @@ if (!defined('DIAFAN')) {
         <i class="house-comfort">Продажи открыты!</i>
     </div>
     <div class="comfort-class comfort-class--poz8">
-      <i class="house-comfort">Продажи открыты!</i>
+      <i class="house-comfort">Квартиры с ремонтом!</i>
     </div>
     <!--<div class="comfort-class comfort-class--poz23">
         <i class="house-comfort">Продажи открыты!</i>
@@ -99,7 +99,7 @@ if (!defined('DIAFAN')) {
 
     <area shape="poly"
           coords="998, 316, 1061, 313, 1069, 289, 1130, 290, 1127, 363, 1135, 374, 1108, 386, 1108, 400, 1053, 383, 993, 402" class="area-buble"
-          data-position="8" data-apartments="Квартиры c ремонтом"
+          data-position="8"  data-address="Миначева,15" data-status="Дом сдан"
           href="javascript:void()" onclick="pb_front_widget.show({houseId: 99328, accountId: 5828});"/>
 
     <area shape="poly" coords="915, 473, 959, 457, 958, 440, 994, 430, 995, 409, 1040, 390, 1083, 399, 1082, 422, 1130, 438, 1124, 515, 1090, 530, 1046, 512, 951, 556, 914, 547" class="area-buble area-bubble-nolink" data-position="10" data-status="Проект" href="#"/>
@@ -107,7 +107,7 @@ if (!defined('DIAFAN')) {
 
     <area shape="poly"
         coords="252, 593, 267, 587, 269, 572, 327, 558, 389, 590, 396, 740, 314, 772, 260, 743" class="area-buble"
-        data-position="1"  data-status="Дом строится" data-apartments="Квартиры в продаже"
+        data-position="1" data-status="Дом строится" data-apartments="Квартиры в продаже"
         href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});"/>
 
     <area shape="poly"
