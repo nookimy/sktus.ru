@@ -11,6 +11,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WN58XJ5');</script>
+<script type="text/javascript" src="<insert name="custom" path="js/readmore.js" absolute="true">"></script>
 <!-- End NT -->
   <insert name="show_block" module="tagmanager" position="head_start">
   <insert name="show_head">
@@ -26,7 +27,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WN58XJ5"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End NT (noscript) -->
-  <insert name="show_block" module="tagmanager" position="body_start"> 
+  <insert name="show_block" module="tagmanager" position="body_start">
   <insert name="show_form" module="feedback" id="6" template="requestcall">
   <a class="header-logo" href="<insert name="path">" title="Микрорайон Университет"></a>
   <insert name="show_include" file="badges">
@@ -37,9 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   	<!--Начало блока верхних баннеров-->
     <div class="slides">
       <a class="slide5 active" href="https://sktus.ru/news/chto-novenkogo-start-prodazh-pozitsii-23/" target="_blank"></a>
-      <a class="slide4" href="https://sktus.ru/news/chto-novenkogo-start-prodazh-pozitsii-23/" target="_blank"></a>
       <a class="slide1" href="https://sktus.ru/news/ipotechnye-stavki-v-2023-godu/" target="_blank"></a>
-      <a class="slide2" href="https://sktus.ru/news/prodazhi-kvartir-v-pozitsii-8-otkryty-dobro-pozhal/" target="_blank"></a>
       <a class="slide3" href="https://sktus.ru/news/stroitelnaya-kompaniya-tus-otmechaet-30-let/" target="_blank"></a>
     </div>
     <!--Конец блока верхних баннеров-->
