@@ -98,16 +98,6 @@ if (!defined("DIAFAN")) {
                 </a>
             </li>
             <li class="action__item">
-                <a href="https://sktus.ru/m/news/chto-novenkogo-start-prodazh-pozitsii-23/">
-                    <h3 class="visually-hidden">Скоро сдача дома по позиции 8</h3>
-                    <picture>
-                        <img class="slider__image" src="/img/action/sdacha-poz8-mob.png"
-                             alt="Скоро сдача дома по позиции 8">
-                    </picture>
-                </a>
-            </li>
-
-            <li class="action__item">
                 <a href="https://sktus.ru/m/news/ipotechnye-stavki-v-2023-godu/">
                     <h3 class="visually-hidden">Снизили ставку по ипотеке</h3>
                     <picture>
@@ -116,15 +106,6 @@ if (!defined("DIAFAN")) {
                     </picture>
                 </a>
             </li>
-          <li class="action__item">
-            <a href="https://sktus.ru/m/news/prodazhi-kvartir-v-pozitsii-8-otkryty-dobro-pozhal/">
-              <h3 class="visually-hidden">Продажи квартир в позиции 8 открыты</h3>
-              <picture>
-                <img class="slider__image" src="/img/action/start-poz8-mobile.png"
-                     alt="Продажи квартир в позиции 8 открыты">
-              </picture>
-            </a>
-          </li>
           <li class="action__item">
             <a href="https://sktus.ru/m/news/stroitelnaya-kompaniya-tus-otmechaet-30-let/">
               <h3 class="visually-hidden">Строим вместе 30лет</h3>
