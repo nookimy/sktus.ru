@@ -88,24 +88,6 @@ if (!defined("DIAFAN")) {
       <div class="action__wrap">
         <h2 class="visually-hidden">Специальные предложения</h2>
         <ul class="action__list owl-carousel owl-theme">
-            <li class="action__item">
-                <a href="https://sktus.ru/m/news/chto-novenkogo-start-prodazh-pozitsii-23/">
-                    <h3 class="visually-hidden">Открытие продаж по позиции 23</h3>
-                    <picture>
-                        <img class="slider__image" src="/img/action/start-poz23-mob.png"
-                             alt="Открытие продаж по позиции 23">
-                    </picture>
-                </a>
-            </li>
-            <li class="action__item">
-                <a href="https://sktus.ru/m/news/ipotechnye-stavki-v-2023-godu/">
-                    <h3 class="visually-hidden">Снизили ставку по ипотеке</h3>
-                    <picture>
-                        <img class="slider__image" src="/img/action/ipoteka-family-mob.png"
-                             alt="Снизили ставку по ипотеке">
-                    </picture>
-                </a>
-            </li>
           <li class="action__item">
             <a href="https://sktus.ru/m/news/stroitelnaya-kompaniya-tus-otmechaet-30-let/">
               <h3 class="visually-hidden">Строим вместе 30лет</h3>
@@ -115,6 +97,16 @@ if (!defined("DIAFAN")) {
               </picture>
             </a>
           </li>
+          <li class="action__item">
+            <a href="https://sktus.ru/m/news/snizhenie-ipotechnoy-stavki-na-priobretenie-kvarti/">
+              <h3 class="visually-hidden">Снизили ставку по ипотеке</h3>
+              <picture>
+                <img class="slider__image" src="/img/action/snizhenie-stavki-po-ipoteke-2023-08-mob.png"
+                     alt="Снизили ставку по ипотеке">
+              </picture>
+            </a>
+          </li>
+
         </ul>
       </div>
     </section>
@@ -127,7 +119,7 @@ if (!defined("DIAFAN")) {
             <svg width="50px" height="50px">
               <use xlink:href="#icon-friendship"></use>
             </svg>
-            <h3>Проживает более 12 000 жителей</h3>
+            <h3>Проживает более 15 000 жителей</h3>
           </li>
           <li class="features__item wow animate__animated animate__flipInX">
             <svg width="50px" height="50px">
@@ -139,19 +131,25 @@ if (!defined("DIAFAN")) {
             <svg width="50px" height="50px">
               <use xlink:href="#icon-fun"></use>
             </svg>
-            <h3>3 детских сада ( +1 строится)</h3>
+            <h3>4 детских сада</h3>
           </li>
           <li class="features__item wow animate__animated animate__flipInX">
             <svg width="50px" height="50px">
               <use xlink:href="#icon-backpack"></use>
             </svg>
-            <h3>1 школа рядом ( +1 получена госэкспертиза)</h3>
+            <h3>1 школа рядом ( +1 новая школа на 1500 мест, сдача 2024 г.)</h3>
           </li>
           <li class="features__item wow animate__animated animate__flipInX">
             <svg width="50px" height="50px">
               <use xlink:href="#icon-leisure"></use>
             </svg>
             <h3>Комфортная среда</h3>
+          </li>
+          <li class="features__item wow animate__animated animate__flipInX">
+            <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M24.2401 0.198721C23.5883 0.59615 23.5337 0.807072 23.5337 2.93337C23.5337 4.66156 23.5517 4.86691 23.7278 5.15575C24.3029 6.09894 25.6926 6.09894 26.2677 5.15575C26.4438 4.86691 26.4618 4.66156 26.4618 2.93337C26.4618 1.20518 26.4438 0.99983 26.2677 0.710985C25.8535 0.0317415 24.9064 -0.207595 24.2401 0.198721ZM15.4517 3.12818C14.8138 3.51711 14.5472 4.42612 14.8845 5.06211C15.052 5.3779 18.2173 8.52971 18.5221 8.68419C18.8607 8.85585 19.5435 8.81279 19.8965 8.59748C20.509 8.22407 20.7991 7.31008 20.4954 6.71081C20.341 6.40605 17.1892 3.24077 16.8734 3.0732C16.4954 2.87273 15.8283 2.89851 15.4517 3.12818ZM33.1514 3.04557C32.8466 3.21138 29.6885 6.36816 29.5318 6.66355C29.1945 7.29953 29.4611 8.20854 30.099 8.59748C30.452 8.81279 31.1348 8.85585 31.4734 8.68419C31.7782 8.52971 34.9434 5.3779 35.111 5.06211C35.4483 4.42612 35.1817 3.51711 34.5438 3.12818C34.1925 2.91394 33.4718 2.87127 33.1514 3.04557ZM23.7086 12.0017C22.9141 12.2646 22.3826 12.6023 21.8091 13.2086C20.9595 14.1071 20.6608 14.9166 20.557 16.6018C20.4782 17.8808 20.3052 18.7123 19.8856 19.8293C18.8602 22.5592 16.5984 24.821 13.8685 25.8464C12.5461 26.3432 11.7618 26.4775 9.91102 26.5242L8.25099 26.566L8.85202 26.3862C10.9651 25.754 12.4952 24.1773 13.0378 22.0725C13.2629 21.1993 13.1983 19.7177 12.8971 18.8501C12.2949 17.115 10.9353 15.753 9.17866 15.125C8.64305 14.9335 8.35343 14.8982 7.32333 14.8982C6.29324 14.8982 6.00361 14.9335 5.46801 15.125C3.71141 15.753 2.35175 17.115 1.74955 18.8501C1.4484 19.7177 1.38376 21.1993 1.60884 22.0725C2.15264 24.1817 3.72098 25.7937 5.79464 26.3749C6.12519 26.4676 6.32976 26.5653 6.2492 26.5923C6.16864 26.6192 5.79601 26.7194 5.42104 26.815C3.37374 27.337 1.60825 28.825 0.678736 30.812C-0.0153504 32.2956 -0.00031255 32.071 7.80446e-05 40.9867C0.00037099 48.7853 0.00505812 48.9822 0.194496 49.2929C0.301226 49.468 0.531677 49.6985 0.706761 49.8052C1.01562 49.9936 1.21082 49.9993 7.33329 49.9996L13.6416 50L13.9635 49.7803C14.1405 49.6594 14.3667 49.4075 14.4661 49.2204C14.6373 48.8983 14.647 48.5053 14.647 41.8723C14.647 38.018 14.6632 34.8645 14.6831 34.8645C14.7029 34.8645 15.1611 34.7332 15.7011 34.5728C22.8996 32.4343 28.2686 26.1402 29.2444 18.6962C29.5434 16.4156 29.406 15.0172 28.7779 13.9454C28.4079 13.3141 27.5232 12.5321 26.7916 12.1898C26.2358 11.9296 26.0078 11.8811 25.204 11.8517C24.4761 11.8252 24.1404 11.8588 23.7086 12.0017ZM41.1434 15.0273C38.5351 15.7957 36.8132 18.0537 36.8132 20.7054C36.8132 23.358 38.5528 25.6371 41.1434 26.3784L41.7445 26.5505L40.619 26.5574C38.4675 26.5707 37.0207 26.2777 35.3973 25.5C34.1796 24.9166 33.0684 24.0945 32.1515 23.0987C31.7626 22.6765 31.4293 22.3497 31.4106 22.3726C31.392 22.3955 31.2131 22.8976 31.0129 23.4884C30.3174 25.5416 29.2243 27.5863 27.8374 29.4286L27.0744 30.4421L27.8669 31.0789C29.7201 32.5681 32.0934 33.8608 34.2011 34.5292L35.3485 34.8931V41.8866C35.3485 48.5057 35.3582 48.8983 35.5293 49.2204C35.6287 49.4075 35.855 49.6594 36.0319 49.7803L36.3539 50L42.6622 49.9996C48.7846 49.9993 48.9798 49.9936 49.2887 49.8052C49.4638 49.6985 49.6942 49.468 49.801 49.2929C49.9905 48.9822 49.9951 48.7852 49.9954 40.9587C49.9958 33.2415 49.9885 32.9139 49.7989 32.1703C49.1257 29.5287 47.1087 27.4611 44.5744 26.815C44.1995 26.7194 43.8268 26.6192 43.7463 26.5923C43.6657 26.5653 43.8703 26.4676 44.2008 26.3749C46.2745 25.7937 47.8428 24.1817 48.3866 22.0725C48.6117 21.1993 48.5471 19.7177 48.2459 18.8501C47.6425 17.1118 46.2685 15.7374 44.5275 15.1308C43.6514 14.8255 41.9999 14.775 41.1434 15.0273Z" fill="#E6245A"/>
+            </svg>
+            <h3>Активное сообщество жителей</h3>
           </li>
         </ul>
       </div>
@@ -162,22 +160,34 @@ if (!defined("DIAFAN")) {
         <h2 class="page__subtitle">Дома в продаже:</h2>
         <ul class="on-sale__list" id="building-list">
           <li class="on-sale__item on-sale__item--increased-comfort">
-            <a href="#poz1-2-3">
-              <h3>1-2-3</h3>
+            <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 104698, accountId: 5828});">
+              <h3>23</h3>
+              <span>3 кв. 2025</span>
+            </a>
+          </li>
+          <li class="on-sale__item on-sale__item--increased-comfort">
+            <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});">
+              <h3>1</h3>
               <span>1 кв. 2024</span>
             </a>
           </li>
-          <li class="on-sale__item">
-            <a href="#poz26">
-              <h3>26</h3>
-              <span>Дом сдан</span>
+          <li class="on-sale__item on-sale__item--increased-comfort">
+            <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});"">
+              <h3>2</h3>
+              <span>1 кв. 2024</span>
+            </a>
+          </li>
+          <li class="on-sale__item on-sale__item--increased-comfort">
+            <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 94199, accountId: 5828});">
+              <h3>3</h3>
+              <span>1 кв. 2024</span>
             </a>
           </li>
         </ul>
       </div>
     </section>
 
-    <div class="buildings">
+    <!--<div class="buildings">
       <section class="building building--standart-comfort" id="poz1-2-3">
         <h2 class="page__subtitle building__title wow animate__animated animate__slideInRight">Позиции 1-2-3</h2>
         <ul class=" building__features wow animate__animated animate__slideInRight">
@@ -335,7 +345,7 @@ if (!defined("DIAFAN")) {
           <span>Получить другие планировки</span>
         </a>
       </section>
-    </div>
+    </div>-->
 
     <section class="commercial" id="commercial">
       <div class="page__wrap">
@@ -374,67 +384,30 @@ if (!defined("DIAFAN")) {
       <div class="page__wrap" id="poz24">
         <h2 class="page__subtitle">Видео</h2>
         <ul class="video__list owl-carousel owl-theme">
-          <li class="video__item video__item--10">
-            <a class="video__play-button" href=""></a>
-            <div class="video__item-player">
-              <iframe width="100%" src="https://www.youtube.com/embed/BgPmZ1-lMu0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <li class="video__item">
 
-            </div>
-          </li>
-          <li class="video__item video__item--9">
-            <a class="video__play-button" href=""></a>
-            <div class="video__item-player">
-              <iframe width="100%" src="https://www.youtube.com/embed/FTc-wCHzWTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe width="100%" src="https://www.youtube.com/embed/XL27IAWm7h8" style="aspect-ratio: 2 /1;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-            </div>
           </li>
-          <li class="video__item video__item--8">
-            <a class="video__play-button" href=""></a>
-            <div class="video__item-player">
-              <iframe width="100%" src="https://www.youtube.com/embed/DGvt2neASMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+          <li class="video__item">
+
+              <iframe width="100%" src="https://www.youtube.com/embed/TcubnyW076c" style="aspect-ratio: 2 /1;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
           </li>
-          <li class="video__item video__item--7">
-            <a class="video__play-button" href=""></a>
-            <div class="video__item-player">
-              <iframe width="100%" src="https://www.youtube.com/embed/JqJu76whTP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+          <li class="video__item">
+
+              <iframe width="100%" src="https://www.youtube.com/embed/C30CkQ3nE4k" style="aspect-ratio: 2 /1;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
           </li>
-          <li class="video__item video__item--6">
-            <a class="video__play-button" href=""></a>
-            <div class="video__item-player">
-              <iframe width="100%" src="https://www.youtube.com/embed/am-WhrZHnTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+          <li class="video__item">
+
+              <iframe width="100%" src="https://www.youtube.com/embed/R1IB461EPqM" style="aspect-ratio: 2 /1;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
           </li>
-          <li class="video__item video__item--5">
-            <a class="video__play-button" href=""></a>
-            <div class="video__item-player">
-              <iframe width="100%" src="https://www.youtube.com/embed/2YSLAEmxXAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-          </li>
-          <li class="video__item video__item--4">
-            <a class="video__play-button" href=""></a>
-            <div class="video__item-player">
-              <iframe width="100%" src="https://www.youtube.com/embed/4znUq-NWCw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-          </li>
-          <li class="video__item video__item--3">
-            <a class="video__play-button" href=""></a>
-            <div class="video__item-player">
-              <iframe width="100%" src="https://www.youtube.com/embed/ZzPyzKYkDJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-          </li>
-          <li class="video__item video__item--2">
-            <a class="video__play-button" href=""></a>
-            <div class="video__item-player">
-              <iframe width="100%" src="https://www.youtube.com/embed/fV4RG8rTXe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-          </li>
-          <li class="video__item video__item--1">
-            <a class="video__play-button" href=""></a>
-            <div class="video__item-player">
-              <iframe width="100%" src="https://www.youtube.com/embed/nxwtxo-Jccs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+          <li class="video__item">
+
+              <iframe width="100%" src="https://www.youtube.com/embed/vJm9IL6dEDo" style="aspect-ratio: 2 /1;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
           </li>
         </ul>
       </div>
@@ -442,7 +415,7 @@ if (!defined("DIAFAN")) {
 
     <section class="ipoteka" id="ipoteka">
       <div class="page__wrap">
-        <h2 class="page__subtitle">Ипотека от 6,05 %</h2>
+        <h2 class="page__subtitle">Ипотека от 4,3 %</h2>
       </div>
       <div class="ipoteka__wrap">
         <div class="ipoteka__left-column">
@@ -557,16 +530,6 @@ if (!defined("DIAFAN")) {
         <p>
           Приоритетное направление компании – строительство и реализация качественного жилья по доступным ценам.
         </p>
-        <a href="#" onclick="diplay_hide('#details');return false;">Подробнее ...</a>
-        <div id="details" style="display: none;">
-          <p>
-            Строительная компания АО «ТУС», основанная в 1992 году на протяжении многих лет уверенно сохраняет позицию
-            лидера на рынке недвижимости Республики.
-          </p>
-          <p>
-            Приоритетное направление компании – строительство и реализация качественного жилья по доступным ценам.
-          </p>
-        </div>
       </div>
     </section>
 
@@ -654,6 +617,10 @@ if (!defined("DIAFAN")) {
               <li>
                 <a href="/userfiles/doc/poz8/poz8-tipovaya-forma-ddu.doc" target="_blank" rel="noopener noreferrer">Типовая форма ДДУ</a>
               </li>
+
+              <li>
+                <a href="/userfiles/doc/poz8/poz8-razreshenie-na-vvod.pdf" target="_blank" rel="noopener noreferrer">Разрешение на ввод объекта в эксплуатацию</a>
+              </li>
             </ul>
           </div>
           <div class="documents__folder">
@@ -684,77 +651,78 @@ if (!defined("DIAFAN")) {
               </li>
             </ul>
           </div>
-          <div class="documents__folder">
-            <div class="documents__folder-heading documents__folder-heading--in">
-              <a>Документы по позиции 26<span>11 файлов</span></a>
-            </div>
-            <ul class="documents__list">
-              <li>
-                <a href="/userfiles/doc/poz26/poz26-gradplan-n478-zu-n5091.pdf" target="_blank"
-                   rel="noopener noreferrer">
-                  Градостроительный план №478 ЗУ №5091.pdf
-                </a>
-              </li>
-              <li>
-                <a href="/userfiles/doc/poz26/poz26-gradplan-n479-zu-n5081.pdf" target="_blank"
-                   rel="noopener noreferrer">
-                  Градостроительный план №479 ЗУ №5081.pdf
-                </a>
-              </li>
-              <li>
-                <a href="/userfiles/doc/poz26/poz26-pd.pdf" target="_blank" rel="noopener noreferrer">
-                  Проектная декларация
-                </a>
-              </li>
-              <li>
-                <a href="/userfiles/doc/poz26/poz26-pd-izm11092020.pdf" target="_blank" rel="noopener noreferrer">
-                  Изменения ПД от 11.09.2020
-                </a>
-              </li>
-              <li>
-                <a href="/userfiles/doc/poz26/poz26-pd-izm12112020.pdf" target="_blank" rel="noopener noreferrer">
-                  Изменения ПД от 12.11.2020
-                </a>
-              </li>
-              <li>
-                <a href="/userfiles/doc/poz26/poz26-razreshenie-na-stroitelstvo.pdf"
-                   target="_blank" rel="noopener noreferrer">
-                  Разрешение на строительство
-                </a>
-              </li>
-              <li>
-                <a href="/userfiles/doc/poz26/poz26-razreshenie-na-vvod-v-ekspluataciyu.pdf"
-                   target="_blank" rel="noopener noreferrer">
-                  Разрешение на ввод объекта в эксплуатацию
-                </a>
-              </li>
-              <li>
-                <a href="/userfiles/doc/poz26/poz26-tipovaya-forma-ddu.pdf" target="_blank">
-                  Типовая форма ДДУ
-                </a>
-              </li>
-              <li>
-                <a href="/userfiles/doc/poz26/poz26-zaklyuchenie-ekspertizy-inzhenernyh-izyskaniy-n21-2-1-1-035173-2019-ot-11-12-2019.pdf"
-                   target="_blank" rel="noopener noreferrer">
-                  Заключение экспертизы инженерных изысканий
-                </a>
-              </li>
-              <li>
-                <a href="/userfiles/doc/poz26/Zaklyuchenie-o-sootvetstvii-poz.26.pdf"
-                   target="_blank" rel="noopener noreferrer">
-                  Заключение о соответствии
-                </a>
-              </li>
-              <li>
-                <a href="/userfiles/doc/poz26/Zaklyuchenie-povtornoy-ekspertizy-10-2020.pdf"
-                   target="_blank" rel="noopener noreferrer">
-                  Заключение повторной экспертизы
-                </a>
-              </li>
-            </ul>
-          </div>
+
 
           <div id="alldocs" style="display: none;">
+            <div class="documents__folder">
+              <div class="documents__folder-heading documents__folder-heading--in">
+                <a>Документы по позиции 26<span>11 файлов</span></a>
+              </div>
+              <ul class="documents__list">
+                <li>
+                  <a href="/userfiles/doc/poz26/poz26-gradplan-n478-zu-n5091.pdf" target="_blank"
+                     rel="noopener noreferrer">
+                    Градостроительный план №478 ЗУ №5091.pdf
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/poz26/poz26-gradplan-n479-zu-n5081.pdf" target="_blank"
+                     rel="noopener noreferrer">
+                    Градостроительный план №479 ЗУ №5081.pdf
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/poz26/poz26-pd.pdf" target="_blank" rel="noopener noreferrer">
+                    Проектная декларация
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/poz26/poz26-pd-izm11092020.pdf" target="_blank" rel="noopener noreferrer">
+                    Изменения ПД от 11.09.2020
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/poz26/poz26-pd-izm12112020.pdf" target="_blank" rel="noopener noreferrer">
+                    Изменения ПД от 12.11.2020
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/poz26/poz26-razreshenie-na-stroitelstvo.pdf"
+                     target="_blank" rel="noopener noreferrer">
+                    Разрешение на строительство
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/poz26/poz26-razreshenie-na-vvod-v-ekspluataciyu.pdf"
+                     target="_blank" rel="noopener noreferrer">
+                    Разрешение на ввод объекта в эксплуатацию
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/poz26/poz26-tipovaya-forma-ddu.pdf" target="_blank">
+                    Типовая форма ДДУ
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/poz26/poz26-zaklyuchenie-ekspertizy-inzhenernyh-izyskaniy-n21-2-1-1-035173-2019-ot-11-12-2019.pdf"
+                     target="_blank" rel="noopener noreferrer">
+                    Заключение экспертизы инженерных изысканий
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/poz26/Zaklyuchenie-o-sootvetstvii-poz.26.pdf"
+                     target="_blank" rel="noopener noreferrer">
+                    Заключение о соответствии
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/poz26/Zaklyuchenie-povtornoy-ekspertizy-10-2020.pdf"
+                     target="_blank" rel="noopener noreferrer">
+                    Заключение повторной экспертизы
+                  </a>
+                </li>
+              </ul>
+            </div>
             <div class="documents__folder">
               <div class="documents__folder-heading documents__folder-heading--in">
                 <a>Документы по позиции 7a (нижняя) ул. Ф.Лукина, 18 <span>24 файла</span></a>
@@ -2106,7 +2074,7 @@ if (!defined("DIAFAN")) {
     <div class="page__wrap" id="up">
       <div class="main-footer__column main-footer__column--left">
         <a class="main-footer__fullversion-link" href="https://sktus.ru/?mobile=no" target="_blank">Перейти на полную версию сайта</a>
-        <p class="main-footer__copyright">© 2015 - 2020<br>Микрорайон «Университет»</p>
+        <p class="main-footer__copyright">© 2015 - 2023<br>Микрорайон «Университет»</p>
       </div>
       <div class="main-footer__column main-footer__column--right">
         <a class="main-footer__developer" href="https://onmaster.ru/" target="_blank">onmaster.ru</a>

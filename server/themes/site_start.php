@@ -37,8 +37,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <main>
   	<!--Начало блока верхних баннеров-->
     <div class="slides">
-      <a class="slide6 active" href="https://sktus.ru/news/limitirovannaya-kollektsiya-kvartiry-s-remontom/" target="_blank"></a>
-      <a class="slide1" href="https://sktus.ru/news/ipotechnye-stavki-v-2023-godu/" target="_blank"></a>
+      <a class="slide7 active" href="https://sktus.ru/news/snizhenie-ipotechnoy-stavki-na-priobretenie-kvarti/" target="_blank"></a>
       <a class="slide3" href="https://sktus.ru/news/stroitelnaya-kompaniya-tus-otmechaet-30-let/" target="_blank"></a>
     </div>
     <!--Конец блока верхних баннеров-->

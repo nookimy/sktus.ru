@@ -2928,11 +2928,11 @@ main h1 {
   height: 144px;
   margin-left: 95px;
   margin-top: 170px;
-  background-image: url("../img/hover-info-green.png");
+  background-image: url("../img/hover-info-gray.png");
 }
 .hover-info26 div {
   height: 120px;
-  background-color: #58b756;
+  background-color: #7d7d7d;
 }
 .hover-info6a {
   display: block;
@@ -7786,8 +7786,9 @@ form.subscription input[type="email"] {
   background-image: url("../img/slides/poziciya-8-kvartiry-s-remontom.png");
 }
 
-
-
+.slide7 {
+  background-image: url("../img/slides/snizhenie-stavki-po-ipoteke.png");
+}
 
 .promo-remont {
   padding-bottom: 50px;
