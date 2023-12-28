@@ -88,6 +88,16 @@ if (!defined("DIAFAN")) {
       <div class="action__wrap">
         <h2 class="visually-hidden">Специальные предложения</h2>
         <ul class="action__list owl-carousel owl-theme">
+        <li class="action__item">
+            <a href="https://sktus.ru/m/news/kvartira-dlya-lyubiteley-prostora/">
+              <h3 class="visually-hidden">Просторная квартира</h3>
+              
+              <picture>
+                <img class="slider__image" src="/img/action/prostornaya-kvartira-mob.png"
+                     alt="Просторная квартира">
+              </picture>
+            </a>
+          </li>
           <li class="action__item">
             <a href="https://sktus.ru/m/news/stroitelnaya-kompaniya-tus-otmechaet-30-let/">
               <h3 class="visually-hidden">Строим вместе 30лет</h3>
@@ -97,16 +107,6 @@ if (!defined("DIAFAN")) {
               </picture>
             </a>
           </li>
-          <li class="action__item">
-            <a href="https://sktus.ru/m/news/snizhenie-ipotechnoy-stavki-na-priobretenie-kvarti/">
-              <h3 class="visually-hidden">Снизили ставку по ипотеке</h3>
-              <picture>
-                <img class="slider__image" src="/img/action/snizhenie-stavki-po-ipoteke-2023-08-mob.png"
-                     alt="Снизили ставку по ипотеке">
-              </picture>
-            </a>
-          </li>
-
         </ul>
       </div>
     </section>

@@ -378,13 +378,20 @@ body.bluebg {
 .badge-parking div {
   display: none;
   position: relative;
-  min-height: 190px;
   padding-top: 14px;
   margin-left: 83px;
   margin-top: 13px;
   width: 240px;
   padding-left: 36px;
   background-color: #ffffff;
+}
+
+.badge-commercial div {
+  min-height: 190px;
+}
+
+.badge-parking div {
+  min-height: 72px;
 }
 .badge-commercial a,
 .badge-parking a {
@@ -7777,7 +7784,6 @@ form.subscription input[type="email"] {
   background-image: url("../img/slides/sdacha-poz8.png");
 }
 
-
 .slide5 {
   background-image: url("../img/slides/start-poz23-09122022.png");
 }
@@ -7788,6 +7794,10 @@ form.subscription input[type="email"] {
 
 .slide7 {
   background-image: url("../img/slides/snizhenie-stavki-po-ipoteke.png");
+}
+
+.slide8 {
+  background-image: url("../img/slides/prostornaya-kvartira.png");
 }
 
 .promo-remont {
