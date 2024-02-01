@@ -1816,10 +1816,10 @@ main h1 {
   z-index: 10;
 }
 
-.comfort-class--poz1-2-3 {
+.comfort-class--start {
   width: 165px;
-  margin-left: 292px;
-  margin-top: 569px;
+  margin-left: 672px;
+  margin-top: 660px;
 }
 
 .comfort-class--poz8 {
@@ -2794,14 +2794,14 @@ main h1 {
 }
 .hover-info8 {
   display: block;
-  height: 120px;
+  height: 144px;
   margin-left: 903px;
   margin-top: 175px;
-  background-image: url("../img/hover-info-yellow.png");
+  background-image: url("../img/hover-info-gray.png");
 }
 .hover-info8 div {
   height: 66px;
-  background-color: #d0a157;
+  background-color: #7d7d7d;
 }
 
 .hover-info10 {
@@ -2966,9 +2966,9 @@ main h1 {
 }
 .hover-info8a {
   display: block;
-  height: 90px;
+  height: 120px;
   margin-left: 602px;
-  margin-top: 471px;
+  margin-top: 441px;
   background-image: url("../img/hover-info-yellow.png");
 }
 .hover-info8a div {

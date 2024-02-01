@@ -37,7 +37,7 @@ if (!defined('DIAFAN')) {
   <span></span>
   <div class="badge-rooms-list">
     <insert name="show_include" file="video-popup">
-      <a class="badge-rooms-green" href="javascript:void()" onclick="pb_front_widget.show({houseId: 99328, accountId: 5828});"><i>Дом сдан</i> Позиция №8</a>
+      <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 113556, accountId: 5828});"><i>Дом строится</i> Позиция №8</a>
       <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 104698, accountId: 5828});"><i>Дом строится</i> Позиция №23</a>
       <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});"><i>Дом строится</i> Позиция №1</a>
       <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});"><i>Дом строится</i> Позиция №2</a>
