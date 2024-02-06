@@ -89,6 +89,16 @@ if (!defined("DIAFAN")) {
         <h2 class="visually-hidden">Специальные предложения</h2>
         <ul class="action__list owl-carousel owl-theme">
         <li class="action__item">
+            <a href="https://sktus.ru/m/news/sosedstvo-vesele-i-radost-v-novom-dome-poz-8a/">
+              <h3 class="visually-hidden">Старт продаж по позиции 8а</h3>
+              
+              <picture>
+                <img class="slider__image" src="/img/action/start-poz8a-mob.png"
+                     alt="Просторная квартира">
+              </picture>
+            </a>
+          </li>
+        <li class="action__item">
             <a href="https://sktus.ru/m/news/kvartira-dlya-lyubiteley-prostora/">
               <h3 class="visually-hidden">Просторная квартира</h3>
               
