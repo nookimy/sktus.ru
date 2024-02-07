@@ -5,7 +5,6 @@
 *.pdf
 *.psd
 *.sublime*
-custom/
 dev/
 server/
 styling/
