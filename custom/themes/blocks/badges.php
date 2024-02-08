@@ -75,6 +75,21 @@ if (!defined('DIAFAN')) {
     <a href="/doma/pozitsiya-26---kommercheskie-ploschadi/">Позиция №26 | Лукина, д.9</a>
   </div>
 </div>
+<div class="cheb-jubilee cheb-jubilee--desktop">
+    <a>
+        <picture>
+            <source type="image/webp" srcset="
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@1x.webp 1x,
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@2x.webp 2x,
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@3x.webp 3x">
+            <source type="image/jpeg" srcset="
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@1x.png 1x,
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@2x.png 2x,
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@3x.png 3x">
+            <img src="/custom/sktus/img/badges/cheb-jubilee-logo.png" alt="Логотип Чебоксарам 555 лет">
+        </picture>
+    </a>
+</div>
 <a class="badge-heart" href="https://sktus.ru/o-zastroyschike/nashi-dobrye-dela/"></a>
 <a class="badge-spec" href="/spetspredlozheniya/" title="Специальные предложения">
   <svg class="badge-spec-small-svg" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"

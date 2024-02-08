@@ -39,6 +39,21 @@ if (!defined("DIAFAN")) {
 <insert name="show_include" file="mheader1">
   <main>
     <div class="slider">
+      <div class="cheb-jubilee cheb-jubilee--mobile">
+          <a>
+              <picture>
+                  <source type="image/webp" srcset="
+                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@1x.webp 1x,
+                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@2x.webp 2x,
+                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@3x.webp 3x">
+                  <source type="image/jpeg" srcset="
+                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@1x.png 1x,
+                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@2x.png 2x,
+                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@3x.png 3x">
+                  <img class="cheb-jubilee__img" src="../custom/sktus/img/badges/cheb-jubilee-logo.png" alt="">
+              </picture>
+          </a>
+      </div>
       <div class="owl-carousel owl-theme">
         <picture>
           <source type="image/webp" media="(min-width: 1200px)" srcset="./img/slider/poz123-1200@3.webp 3x,
