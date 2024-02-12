@@ -9393,12 +9393,12 @@ div.adv {
   width: 100%;
 }
 .cheb-jubilee--desktop {
-  left: 0;
-  top: 682px;
-
-  @media (min-width: 1461px) {
-    left: 38px;
-  }
+  position: fixed;
+  width: 125px;
+  bottom: 21px;
+  right: 151px;
+  left: unset;
+  top: unset;
 }
 .cheb-jubilee--mobile {
   left: 0;
