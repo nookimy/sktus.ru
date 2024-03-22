@@ -737,9 +737,9 @@ img {
   padding: 25px 30px;
   border-radius: 20px;
   margin-bottom: 20px;
-  background: #F5777A;
-  -webkit-box-shadow: 0px 4px 20px rgba(251, 173, 99, 0.45);
-          box-shadow: 0px 4px 20px rgba(251, 173, 99, 0.45);
+  background: #47c762;
+  -webkit-box-shadow: 0px 4px 20px rgba(99, 251, 162, 0.45);
+          box-shadow: 0px 4px 20px rgba(99, 251, 162, 0.45);
 }
 .on-sale__item {
   padding: 0 5px;

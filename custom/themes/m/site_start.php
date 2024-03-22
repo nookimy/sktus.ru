@@ -184,25 +184,31 @@ if (!defined("DIAFAN")) {
       <div class="page__wrap">
         <h2 class="page__subtitle">Дома в продаже:</h2>
         <ul class="on-sale__list" id="building-list">
+        <li class="on-sale__item on-sale__item--increased-comfort">
+            <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 113556, accountId: 5828});">
+              <h3>8a</h3>
+              <span>4 кв. 2025</span>
+            </a>
+          </li>
           <li class="on-sale__item on-sale__item--increased-comfort">
             <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 104698, accountId: 5828});">
               <h3>23</h3>
               <span>3 кв. 2025</span>
             </a>
           </li>
-          <li class="on-sale__item on-sale__item--increased-comfort">
+          <li class="on-sale__item">
             <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});">
               <h3>1</h3>
               <span>1 кв. 2024</span>
             </a>
           </li>
-          <li class="on-sale__item on-sale__item--increased-comfort">
-            <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});"">
+          <li class="on-sale__item">
+            <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});">
               <h3>2</h3>
               <span>1 кв. 2024</span>
             </a>
           </li>
-          <li class="on-sale__item on-sale__item--increased-comfort">
+          <li class="on-sale__item">
             <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 94199, accountId: 5828});">
               <h3>3</h3>
               <span>1 кв. 2024</span>
@@ -440,7 +446,7 @@ if (!defined("DIAFAN")) {
 
     <section class="ipoteka" id="ipoteka">
       <div class="page__wrap">
-        <h2 class="page__subtitle">Ипотека от 4,3 %</h2>
+        <h2 class="page__subtitle">Ипотека от 6 %</h2>
       </div>
       <div class="ipoteka__wrap">
         <div class="ipoteka__left-column">
@@ -562,6 +568,19 @@ if (!defined("DIAFAN")) {
       <div class="page__wrap">
         <h2 class="page__subtitle">Документы</h2>
         <div class="documents__folder-wrap">
+        <div class="documents__folder">
+                <div class="documents__folder-heading documents__folder-heading--in">
+                    <a>Документы по позиции 8а <span>6 файлов</span></a>
+                </div>
+                <ul class="documents__list">
+                    <li><a href="/userfiles/doc/poz8a/poz8a-zaklyuchenie-ekspertizy.pdf" class="document-pdf" target="_blank">Заключение экспертизы</a></li>
+                    <li><a href="/userfiles/doc/poz8a/poz8a-zaklyuchenie-ekspertizy-povt.pdf" class="document-pdf" target="_blank">Заключение экспертизы (повторная)</a></li>
+                    <li><a href="/userfiles/doc/poz8a/poz8a-izveshchenie-o-nachale-stroitelstva.pdf" class="document-pdf" target="_blank">Извещение о начале строительства</a></li>
+                    <li><a href="/userfiles/doc/poz8a/poz8a-pd.pdf" class="document-pdf" target="_blank">Проектная декларация</a></li>
+                    <li><a href="/userfiles/doc/poz8a/poz8a-razreshenie-na-stroitelstvo.pdf" class="document-pdf" target="_blank">Разрешение на строительство</a></li>
+                    <li><a href="/userfiles/doc/poz8a/poz8a-tipovaya-forma-ddu.pdf" class="document-pdf" target="_blank">Типовая форма ДДУ</a></li>
+                </ul>
+            </div>
             <div class="documents__folder">
                 <div class="documents__folder-heading documents__folder-heading--in">
                     <a>Документы по позиции 23 <span>10 файлов</span></a>
@@ -650,12 +669,9 @@ if (!defined("DIAFAN")) {
           </div>
           <div class="documents__folder">
             <div class="documents__folder-heading documents__folder-heading--in">
-              <a>Документы по позициям 1-2-3 <span>7 файлов</span></a>
+              <a>Документы по позициям 1-2-3 <span>8 файлов</span></a>
             </div>
-            <ul class="documents__list">
-              <li>
-                <a href="/userfiles/doc/poz-1-2-3/razreshenie-na-stroitelstvo-poz-1-2-3.pdf" target="_blank" rel="noopener noreferrer">Разрешение на строительство</a>
-              </li>
+            <ul class="documents__list">              
               <li>
                 <a href="/userfiles/doc/poz-1-2-3/poz-1-2-3-vypiska-iz-egrn.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Выписка из ЕГРН</a>
               </li>
@@ -672,8 +688,14 @@ if (!defined("DIAFAN")) {
                 <a href="/userfiles/doc/poz-1-2-3/poz-1-2-3-pd.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Проектная декларация</a>
               </li>
               <li>
-                <a href="/userfiles/doc/poz-1-2-3/poz-1-2-3-tipovaya-forma-ddu-2.doc" class="document-pdf" target="_blank" rel="noopener noreferrer">Типовая форма ДДУ</a>
+                <a href="/userfiles/doc/poz-1-2-3/razreshenie-na-stroitelstvo-poz-1-2-3.pdf" target="_blank" rel="noopener noreferrer">Разрешение на строительство</a>
               </li>
+              <li>
+                <a href="/userfiles/doc/poz-1-2-3/poz-1-2-3-razreshenie-na-vvod-obieekta-v-ekspluataciyu.pdf" target="_blank" rel="noopener noreferrer">Разрешение на ввод объекта в эксплуатацию</a>
+              </li>
+              <li>
+                <a href="/userfiles/doc/poz-1-2-3/poz-1-2-3-tipovaya-forma-ddu-2.doc" class="document-pdf" target="_blank" rel="noopener noreferrer">Типовая форма ДДУ</a>
+              </li>              
             </ul>
           </div>
 
