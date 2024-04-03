@@ -39,9 +39,9 @@ if (!defined('DIAFAN')) {
     <insert name="show_include" file="video-popup">
       <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 113556, accountId: 5828});"><i>Дом строится</i> Позиция №8</a>
       <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 104698, accountId: 5828});"><i>Дом строится</i> Позиция №23</a>
-      <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});"><i>Дом строится</i> Позиция №1</a>
-      <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});"><i>Дом строится</i> Позиция №2</a>
-      <a class="badge-rooms-red" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94199, accountId: 5828});"><i>Дом строится</i> Позиция №3</a>
+      <a class="badge-rooms-green" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});"><i>Дом сдан</i> Позиция №1</a>
+      <a class="badge-rooms-green" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});"><i>Дом сдан</i> Позиция №2</a>
+      <a class="badge-rooms-green" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94199, accountId: 5828});"><i>Дом сдан</i> Позиция №3</a>
   </div>
 </div>
 <div title="Нежилые помещения" class="badge-commercial">
@@ -75,6 +75,21 @@ if (!defined('DIAFAN')) {
     <a href="/doma/pozitsiya-7a---kommercheskie-ploschadi/">Позиция №7а | Лукина, д.18</a>
     <a href="/doma/pozitsiya-26---kommercheskie-ploschadi/">Позиция №26 | Лукина, д.9</a>
   </div>
+</div>
+<div class="cheb-jubilee cheb-jubilee--desktop">
+    <a>
+        <picture>
+            <source type="image/webp" srcset="
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@1x.webp 1x,
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@2x.webp 2x,
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@3x.webp 3x">
+            <source type="image/jpeg" srcset="
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@1x.png 1x,
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@2x.png 2x,
+                /custom/sktus/img/badges/cheb-jubilee-logo-175@3x.png 3x">
+            <img src="/custom/sktus/img/badges/cheb-jubilee-logo.png" alt="Логотип Чебоксарам 555 лет">
+        </picture>
+    </a>
 </div>
 <a class="badge-heart" href="https://sktus.ru/o-zastroyschike/nashi-dobrye-dela/"></a>
 <a class="badge-spec" href="/spetspredlozheniya/" title="Специальные предложения">

@@ -61,9 +61,9 @@ if (!defined('DIAFAN')) {
     <div class="house-numbers">
         <i class="house-number house-number-gray house-number-10">10</i>
         <i class="house-number house-number-gray house-number-11">11</i>
-        <i class="house-number house-number-comfort house-number-1">1</i>
-        <i class="house-number house-number-comfort house-number-2">2</i>
-        <i class="house-number house-number-comfort house-number-3">3</i>
+        <i class="house-number house-number-green house-number-1">1</i>
+        <i class="house-number house-number-green house-number-2">2</i>
+        <i class="house-number house-number-green house-number-3">3</i>
         <i class="house-number house-number-comfort house-number-23">23</i>
         <i class="house-number house-number-comfort house-number-8a">8a</i>
     </div>
@@ -132,18 +132,18 @@ if (!defined('DIAFAN')) {
         coords="252, 593, 267, 587, 269, 572, 327, 558, 389, 590, 396, 740, 314, 772, 260, 743" class="area-buble"
         data-position="1"
         data-address="Лукина, 16" 
-        data-status="Дом строится" 
+        data-status="Дом сдан" 
         data-apartments="Квартиры в продаже"
         href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});"/>
 
     <area shape="poly"
         coords="411, 540, 432, 533, 432, 521, 475, 510, 490, 510, 491, 519, 543, 542, 545, 680, 473, 704, 418, 677" class="area-buble"
-        data-position="2" data-address="Лукина, 16" data-status="Дом строится" data-apartments="Квартиры в продаже" href="javascript:void()"
-        onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});""/>
+        data-position="2" data-address="Лукина, 16" data-status="Дом сдан" data-apartments="Квартиры в продаже" href="javascript:void()"
+        onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});"/>
 
     <area shape="poly"
         coords="300, 495, 317, 488, 319, 477, 361, 463, 375, 464, 376, 475, 428, 497, 425, 530, 410, 536, 411, 637, 393, 642, 391, 590, 335, 563, 336, 554, 302, 546" class="area-buble"
-        data-position="3" data-address="Лукина, 16" data-status="Дом строится" data-apartments="Квартиры в продаже"
+        data-position="3" data-address="Лукина, 16" data-status="Дом сдан" data-apartments="Квартиры в продаже"
         href="javascript:void()" onclick="pb_front_widget.show({houseId: 94199, accountId: 5828});"/>
 
     <area shape="poly" coords="793, 163, 823, 158, 850, 160, 851, 196, 799, 198, 797, 277, 791, 271" class="area-buble"

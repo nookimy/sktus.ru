@@ -2831,33 +2831,33 @@ main h1 {
   height: 144px;
   margin-left: 158px;
   margin-top: 457px;
-  background-image: url("../img/hover-info-yellow.png");
+  background-image: url("../img/hover-info-green.png");
 }
 .hover-info1 div {
   height: 66px;
-  background-color: #d0a157;
+  background-color: #33a109;
 }
 .hover-info2 {
   display: block;
   height: 144px;
   margin-left: 319px;
   margin-top: 382px;
-  background-image: url("../img/hover-info-yellow.png");
+  background-image: url("../img/hover-info-green.png");
 }
 .hover-info2 div {
   height: 66px;
-  background-color: #d0a157;
+  background-color: #33a109;
 }
 .hover-info3 {
   display: block;
   height: 144px;
   margin-left: 208px;
   margin-top: 324px;
-  background-image: url("../img/hover-info-yellow.png");
+  background-image: url("../img/hover-info-green.png");
 }
 .hover-info3 div {
   height: 66px;
-  background-color: #d0a157;
+  background-color: #33a109;
 }
 .hover-info19 {
   display: block;
@@ -9363,5 +9363,45 @@ div.adv {
   padding: 5px 20px;
   background-color: #C9301A;
   margin: 0 auto;
+}
+
+.cheb-jubilee {
+  position: absolute;
+}
+.cheb-jubilee a {
+  overflow: hidden;
+  -webkit-box-shadow: 0px 0px 20px 1px rgba(34, 60, 80, 0.2);
+          box-shadow: 0px 0px 20px 1px rgba(34, 60, 80, 0.2);
+  width: 125px;
+  border-radius: 5px;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  color: inherit;
+  text-decoration: none;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+.cheb-jubilee a:hover,
+.cheb-jubilee a:focus {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-box-shadow: 0px 0px 37px 1px rgba(34, 60, 80, 0.2);
+          box-shadow: 0px 0px 37px 1px rgba(34, 60, 80, 0.2);
+}
+.cheb-jubilee img {
+  width: 100%;
+}
+.cheb-jubilee--desktop {
+  position: fixed;
+  width: 125px;
+  bottom: 21px;
+  right: 151px;
+  left: unset;
+  top: unset;
+}
+.cheb-jubilee--mobile {
+  left: 0;
+  bottom: 0;
 }
 
