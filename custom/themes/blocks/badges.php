@@ -43,17 +43,6 @@ if (!defined('DIAFAN')) {
     <a class="badge-rooms-green" href="javascript:void()" onclick="pb_front_widget.show({houseId: 94199, accountId: 5828});"><i>Дом сдан</i> Позиция №3</a>
   </div>
 </div>
-<div title="Нежилые помещения" class="badge-commercial">
-  <i></i>
-  <div>
-    <a href="/pozitsiya-4---kladovye-pomescheniya/">Позиция №4</a>
-    <a href="/pozitsiya-5---nezhilye-pomescheniya/">Позиция №5</a>
-    <a href="/pozitsiya-6a---kladovye-pomescheniya/">Позиция №6a</a>
-    <a href="/pozitsiya-7---nezhilye-pomescheniya/">Позиция №7</a>
-    <a href="/pozitsiya-7a---kladovye-pomescheniya/">Позиция №7a</a>
-    <a href="/pozitsiya-25---kladovye-pomescheniya//">Позиция №25</a>
-  </div>
-</div>
 <div title="Подземная парковка" class="badge-parking">
   <i></i>
   <div>
