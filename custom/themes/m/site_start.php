@@ -608,7 +608,7 @@ if (!defined("DIAFAN")) {
             </div>
             <div class="documents__folder">
                 <div class="documents__folder-heading documents__folder-heading--in">
-                    <a>Документы по позиции 23 <span>10 файлов</span></a>
+                    <a>Документы по позиции 23 <span>11 файлов</span></a>
                 </div>
                 <ul class="documents__list">
                     <li>
@@ -627,7 +627,10 @@ if (!defined("DIAFAN")) {
                         <a href="/userfiles/doc/poz23/poz23-gradplan-5085.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Градплан 5085</a>
                     </li>
                     <li>
-                        <a href="/userfiles/doc/poz23/poz23-zaklyuchenie-ekspertizy.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Заключение экспертизы</a>
+                        <a href="/userfiles/doc/poz23/poz23-zaklyuchenie-ekspertizy-21-2-1-2-009304-24-02-2025.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Заключение экспертизы 21-2-1-2-009304-2025</a>
+                    </li>
+                    <li>
+                        <a href="/userfiles/doc/poz23/poz23-zaklyuchenie-ekspertizy-21-1-1-2-012709-2025-12-03-25.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Заключение экспертизы 21-2-1-2-012709-2025</a>
                     </li>
                     <li>
                         <a href="/userfiles/doc/poz23/poz23-izveshchenie-o-nachale-stroitelstva.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Извещение о начале строительства</a>
@@ -638,7 +641,7 @@ if (!defined("DIAFAN")) {
                     </li>
 
                     <li>
-                        <a href="/userfiles/doc/poz23/poz23-razreshenie-na-stroitelstvo-so-srokom-do-01-07-2025.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Разрешение на строительство</a>
+                        <a href="/userfiles/doc/poz23/poz23-razreshenie-na-stroitelstvo-19-03-2025.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Разрешение на строительство</a>
                     </li>
                     <li>
                         <a href="/userfiles/doc/poz23/poz23-tipovaya-forma-ddu.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Типовая форма ДДУ</a>
