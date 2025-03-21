@@ -105,10 +105,10 @@ if (!defined("DIAFAN")) {
         <ul class="action__list owl-carousel owl-theme">
         <li class="action__item">
             <a href="https://sktus.ru/m/news/sosedstvo-vesele-i-radost-v-novom-dome-poz-8a/">
-              <h3 class="visually-hidden">Старт продаж по позиции 8а</h3>
+              <h3 class="visually-hidden">Выбери свою квартиру в позиции 8а</h3>
               
               <picture>
-                <img class="slider__image" src="/img/action/start-poz8a-mob.png"
+                <img class="slider__image" src="/img/action/poz8a-mob.png"
                      alt="Просторная квартира">
               </picture>
             </a>
@@ -120,15 +120,6 @@ if (!defined("DIAFAN")) {
               <picture>
                 <img class="slider__image" src="/img/action/prostornaya-kvartira-mob.png"
                      alt="Просторная квартира">
-              </picture>
-            </a>
-          </li>
-          <li class="action__item">
-            <a href="https://sktus.ru/m/news/stroitelnaya-kompaniya-tus-otmechaet-30-let/">
-              <h3 class="visually-hidden">Строим вместе 30лет</h3>
-              <picture>
-                <img class="slider__image" src="/img/action/30_mob.png"
-                     alt="Строим вместе 30лет">
               </picture>
             </a>
           </li>
@@ -184,6 +175,12 @@ if (!defined("DIAFAN")) {
       <div class="page__wrap">
         <h2 class="page__subtitle">Дома в продаже:</h2>
         <ul class="on-sale__list" id="building-list">
+            <li class="on-sale__item on-sale__item--increased-comfort">
+            <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 123499, accountId: 5828})">
+              <h3>10</h3>
+              <span>1 кв. 2027</span>
+            </a>
+          </li>
         <li class="on-sale__item on-sale__item--increased-comfort">
             <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 113556, accountId: 5828});">
               <h3>8a</h3>
@@ -568,7 +565,35 @@ if (!defined("DIAFAN")) {
       <div class="page__wrap">
         <h2 class="page__subtitle">Документы</h2>
         <div class="documents__folder-wrap">
-        <div class="documents__folder">
+          <div class="documents__folder">
+            <div class="documents__folder-heading documents__folder-heading--in">
+              <a>Политика в отношении обработки персональных данных АО «СЗ «ТУС» <span>4 файла</span></a>
+            </div>
+            <ul class="documents__list">
+              <li><a href="/userfiles/doc/privacy/politika-v-otnoshenii-obrabotki-pd-v-ao-sz-tus.pdf" class="document-pdf" target="_blank">Политика в отношении обработки ПД в АО СЗ ТУС</a></li>
+              <li><a href="/userfiles/doc/privacy/prilozhenie1.pdf" class="document-pdf" target="_blank">Приложение 1</a></li>
+              <li><a href="/userfiles/doc/privacy/prilozhenie2.pdf" class="document-pdf" target="_blank">Приложение 2</a></li>
+              <li><a href="/userfiles/doc/privacy/prilozhenie3.pdf" class="document-pdf" target="_blank">Приложение 3</a></li>
+            </ul>
+          </div>
+          <div class="documents__folder">
+            <div class="documents__folder-heading documents__folder-heading--in">
+              <a>Документы по позиции 10 <span>8 файлов</span></a>
+            </div>
+            <ul class="documents__list">
+              <li><a href="/userfiles/doc/poz10/3990vysotnayazastrojkatus.pdf" class="document-pdf" target="_blank">3990_высотная застройка_ТУС</a></li>
+              <li><a href="/userfiles/doc/poz10/3995-vysotnaya-zastrojka-tus.pdf" class="document-pdf" target="_blank">3995_высотная застройка_ТУС</a></li>
+              <li><a href="/userfiles/doc/poz10/3996-vysotnaya-zastrojka-tus.pdf" class="document-pdf" target="_blank">3996_высотная застройка_ТУС</a></li>
+              <li><a href="/userfiles/doc/poz10/poz10-10a-zaklyuchenie-pd-korr-n-21-2-1-2-060186-2024.pdf" class="document-pdf" target="_blank">Заключение ПД поз .10, 10а корр №21-2-1-2-060186-2024</a></li>
+              <li><a href="/userfiles/doc/poz10/poz10-zaklyuchenie-ekspertizy-pd.pdf" class="document-pdf" target="_blank">Заключение экспертизы_ПД</a></li>
+              <li><a href="/userfiles/doc/poz10/poz10-izveshchenie-o-nachale-stroitelstva.pdf" class="document-pdf" target="_blank">Извещение о начале строительства</a></li>
+              <li><a href="/userfiles/doc/poz10/poz10-pd.pdf" class="document-pdf" target="_blank">Проектная декларация поз. 10</a></li>
+              <li><a href="/userfiles/doc/poz10/poz10-razreshenie-na-stroitelstvo.pdf" class="document-pdf" target="_blank">Разрешение на строительство с изм. от 17.10.2024</a></li>
+              <li><a href="/userfiles/doc/poz10/poz10-tipovaya-forma-ddu.pdf" class="document-pdf" target="_blank">Типовая форма ДДУ</a></li>
+
+            </ul>
+          </div>
+          <div class="documents__folder">
                 <div class="documents__folder-heading documents__folder-heading--in">
                     <a>Документы по позиции 8а <span>6 файлов</span></a>
                 </div>
@@ -613,7 +638,7 @@ if (!defined("DIAFAN")) {
                     </li>
 
                     <li>
-                        <a href="/userfiles/doc/poz23/poz23-razreshenie-na-stroitelstvo.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Разрешение на строительство с новым сроком</a>
+                        <a href="/userfiles/doc/poz23/poz23-razreshenie-na-stroitelstvo-so-srokom-do-01-07-2025.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Разрешение на строительство</a>
                     </li>
                     <li>
                         <a href="/userfiles/doc/poz23/poz23-tipovaya-forma-ddu.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Типовая форма ДДУ</a>
@@ -1374,8 +1399,23 @@ if (!defined("DIAFAN")) {
                   </a>
                 </li>
                 <li>
-                  <a href="/userfiles/doc/aotus/Otsenka-usloviy-truda.pdf" target="_blank" rel="noopener noreferrer">
+                  <a href="/userfiles/doc/aotus/sout.pdf" target="_blank" rel="noopener noreferrer">
                     Оценка условий труда
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/aotus/ocenka-uslovij-truda-20241023.pdf" target="_blank" rel="noopener noreferrer">
+                    Оценка условий труда 23.10.2024
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/aotus/politika-v-oblasti-ot.pdf" target="_blank" rel="noopener noreferrer">
+                    Политика в области ОТ
+                  </a>
+                </li>
+                <li>
+                  <a href="/userfiles/doc/aotus/polozhenie-o-sisteme-upravleniya-ot.pdf" target="_blank" rel="noopener noreferrer">
+                    Положение о системе управления ОТ
                   </a>
                 </li>
                 <li>
