@@ -608,7 +608,7 @@ if (!defined("DIAFAN")) {
             </div>
             <div class="documents__folder">
                 <div class="documents__folder-heading documents__folder-heading--in">
-                    <a>Документы по позиции 23 <span>11 файлов</span></a>
+                    <a>Документы по позиции 23 <span>12 файлов</span></a>
                 </div>
                 <ul class="documents__list">
                     <li>
@@ -646,6 +646,9 @@ if (!defined("DIAFAN")) {
                     <li>
                         <a href="/userfiles/doc/poz23/poz23-tipovaya-forma-ddu.pdf" class="document-pdf" target="_blank" rel="noopener noreferrer">Типовая форма ДДУ</a>
                     </li>
+                    <li>
+                      <a href="/userfiles/doc/poz23/poz23-razreshenie-na-vvod.pdf" target="_blank" rel="noopener noreferrer">Разрешение на ввод объекта в эксплуатацию</a>
+                    </li>   
 
 
                 </ul>
