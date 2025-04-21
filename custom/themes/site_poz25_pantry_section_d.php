@@ -41,17 +41,11 @@ if (!defined("DIAFAN")) {
             <img src="/custom/sktus/img/poz25/section-switch/map.png" class="switch-image switch-active5" usemap="#switchmap" style="">
             <div class="switch-hovers">
               <img data-src="/custom/sktus/img/poz25/section-switch/1.png">
-              <img data-src="/custom/sktus/img/poz25/section-switch/2.png">
               <img data-src="/custom/sktus/img/poz25/section-switch/3.png">
-              <img data-src="/custom/sktus/img/poz25/section-switch/4.png">
-              <img data-src="/custom/sktus/img/poz25/section-switch/5.png">
             </div>
             <map name="switchmap">
               <area shape="poly" coords="0,25,46,77,84,41,53,10,28,1" class="switch-area" href="../sektsiya-a/">
-              <area shape="poly" coords="46,75,94,126,128,94,100,59,82,44" class="switch-area" href="../sektsiya-b/">
               <area shape="poly" coords="131,93,94,127,118,144,183,144,203,118,174,89" class="switch-area" href="../sektsiya-v/">
-              <area shape="poly" coords="169,85,208,122,243,79,204,47" class="switch-area" href="../sektsiya-g/">
-              <area shape="poly" coords="205,46,245,80,278,44,249,9" class="switch-area" href="../sektsiya-d/">
             </map>
           </div>
           <a href="#" class="backbutton"></a>

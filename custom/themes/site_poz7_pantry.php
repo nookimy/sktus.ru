@@ -41,19 +41,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <div class="area-hovers">
         <img data-src="/custom/sktus/img/poz7/pantry/section-a.png" />
-        <img data-src="/custom/sktus/img/poz7/pantry/section-b.png" />
-        <img data-src="/custom/sktus/img/poz7/pantry/section-v.png" />
-        <img data-src="/custom/sktus/img/poz7/pantry/section-g.png" />
-        <img data-src="/custom/sktus/img/poz7/pantry/section-d.png" />
-        <img data-src="/custom/sktus/img/poz7/pantry/section-e.png" />
       </div>
       <map name="areamap">
-        <area shape="poly" coords="229,491,75,491,75,310,229,310" class="area-pantryinfo" data-poz="7" data-section="А"  data-amount="25" data-marginleft="112" data-margintop="340" href="/pozitsiya-7---nezhilye-pomescheniya/sektsiya-a/"/>
-        <area shape="poly" coords="229,310,75,310,84,208,234,67,342,62,342,224" class="area-pantryinfo" data-poz="7" data-section="Б"  data-amount="44" data-marginleft="167" data-margintop="138" href="/pozitsiya-7---nezhilye-pomescheniya/sektsiya-b/"/>
-        <area shape="poly" coords="342,224,342,62,522,66,522,201" class="area-pantryinfo" data-poz="7" data-section="В" data-amount="28" data-marginleft="374" data-margintop="80" href="/pozitsiya-7---nezhilye-pomescheniya/sektsiya-v/"/>
-        <area shape="poly" coords="522,201,522,66,730,67,730,201" class="area-pantryinfo" data-poz="7" data-section="Г"  data-amount="34" data-marginleft="576" data-margintop="80" href="/pozitsiya-7---nezhilye-pomescheniya/sektsiya-g/"/>
-        <area shape="poly" coords="730,201,730,67,940,66,940,200" class="area-pantryinfo" data-poz="7" data-section="Д"  data-amount="34" data-marginleft="784" data-margintop="80" href="/pozitsiya-7---nezhilye-pomescheniya/sektsiya-d/"/>
-        <area shape="poly" coords="940,200,940,66,1149,65,1149,201" class="area-pantryinfo" data-poz="7" data-section="Е"  data-amount="38" data-marginleft="990" data-margintop="80" href="/pozitsiya-7---nezhilye-pomescheniya/sektsiya-d/"/>
+        <area shape="poly" coords="229,491,75,491,75,310,229,310" class="area-pantryinfo" data-poz="7" data-section="А"  data-amount="1" data-marginleft="112" data-margintop="340" href="/pozitsiya-7---nezhilye-pomescheniya/sektsiya-a/"/>
       </map>
     </div>
     <div class="garage-caption">

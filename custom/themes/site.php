@@ -19,7 +19,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <link href="<insert name="custom" path="css/reset.css" absolute="true">" rel="stylesheet" type="text/css">
   <link href="<insert name="custom" path="css/style.css" absolute="true">" rel="stylesheet" type="text/css">
   <link href="<insert name="custom" path="css/owl.carousel.min.css" absolute="true">" rel="stylesheet" type="text/css">
-  <link href="<insert name="custom" path="css/owl.theme.default.min.css" absolute="true">" rel="stylesheet" type="text/css">
+  <link href="<insert name="custom" path="css/owl.theme.default.css" absolute="true">" rel="stylesheet" type="text/css">
   <link href="<insert name="custom" path="css/jquery.mCustomScrollbar.min.css" absolute="true">" rel="stylesheet" type="text/css">
   <insert name="show_block" module="tagmanager" position="head_end">
 
@@ -51,7 +51,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               dots: true,
               center: false,
               loop:false,
-              nav: false,
+              nav: true,
               margin: 20,
               responsive:{
                   0:{
@@ -81,7 +81,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               dots: true,
               center: false,
               loop:false,
-              nav: false,
+              nav: true,
               margin: 20,
               items:1,
           });

@@ -59,13 +59,13 @@ if (!defined('DIAFAN')) {
         <img data-src="/custom/sktus/img/hover-parking-lukina20.png" />
     </div>
     <div class="house-numbers">
-        <i class="house-number house-number-gray house-number-10">10</i>
+        <i class="house-number house-number-comfort house-number-10">10</i>
         <i class="house-number house-number-gray house-number-11">11</i>
         <i class="house-number house-number-green house-number-1">1</i>
         <i class="house-number house-number-green house-number-2">2</i>
         <i class="house-number house-number-green house-number-3">3</i>
-        <i class="house-number house-number-comfort house-number-23">23</i>
-        <i class="house-number house-number-comfort house-number-8a">8a</i>
+        <i class="house-number house-number-yellow house-number-23">23</i>
+        <i class="house-number house-number-yellow house-number-8a">8a</i>
     </div>
     <div class="object-numbers">
         <i class="object-number object-school object-number-1"></i>
@@ -118,9 +118,11 @@ if (!defined('DIAFAN')) {
 
     <area shape="poly" 
         coords="927, 421, 964, 408, 981, 407, 980, 380, 1003, 370, 1017, 370, 1018, 351, 1058, 340, 1100, 349, 1100, 370, 1145, 378, 1141, 508, 1118, 521, 1106, 517, 1098, 524, 1046, 508, 1046, 519, 1033, 528, 1024, 520, 980, 545, 925, 528" 
-        class="area-buble area-bubble-nolink" 
+        class="area-buble" 
         data-position="10" 
-        data-status="Проект"/>
+        data-status="Дом строится"
+        data-apartments="Квартиры в продаже"
+        href="javascript:void()" onclick="pb_front_widget.show({houseId: 123499, accountId: 5828});"/>
 
     <area shape="poly" 
         coords="1106, 353, 1126, 351, 1128, 332, 1163, 321, 1163, 302, 1203, 291, 1242, 302, 1242, 316, 1279, 325, 1272, 448, 1255, 460, 1241, 457, 1234, 461, 1216, 457, 1216, 445, 1183, 465, 1168, 457, 1158, 463, 1158, 474, 1144, 477, 1147, 371, 1108, 364" 
@@ -157,7 +159,7 @@ if (!defined('DIAFAN')) {
       coords="822, 353, 841, 345, 847, 347, 865, 341, 869, 334, 927, 315, 929, 281, 938, 278, 945, 283, 953, 280, 960, 285, 968, 282, 970, 287, 973, 291, 972, 297, 980, 308, 974, 401, 925, 416, 925, 460, 861, 487, 817, 473" class="area-buble"
       data-position="23" 
       data-status="Дом строится" 
-      data-apartments="Квартиры в продаже"
+      data-apartments="Осталось мало квартир"
       href="javascript:void()" onclick="pb_front_widget.show({houseId: 104698, accountId: 5828});"/>
 
     <area shape="poly" coords="329, 384, 367, 383, 468, 413, 664, 419, 726, 404, 747, 416, 745, 519, 653, 555, 642, 551, 547, 572, 544, 537, 497, 517, 497, 505, 467, 496, 462, 508, 432, 521, 428, 496, 378, 468, 379, 461, 358, 454, 330, 468" class="area-buble" data-position="24" data-address="Миначева, 11" data-status="Дом сдан" data-apartments="Квартиры проданы"/>

@@ -41,10 +41,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <div class="area-hovers">
         <img data-src="/custom/sktus/img/poz25/pantry/sections-a.png" />
-        <img data-src="/custom/sktus/img/poz25/pantry/sections-b.png" />
         <img data-src="/custom/sktus/img/poz25/pantry/sections-v.png" />
-        <img data-src="/custom/sktus/img/poz25/pantry/sections-g.png" />
-        <img data-src="/custom/sktus/img/poz25/pantry/sections-d.png" />
       </div>
       <map name="areamap">
         <area
@@ -53,50 +50,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           class="area-pantryinfo"
           data-poz="25"
           data-section="А"
-          data-amount="29"
+          data-amount="2"
           data-marginleft="195"
           data-margintop="218"
           href="/pozitsiya-25---kladovye-pomescheniya/sektsiya-a/"/>
-        <area
-          shape="poly"
-          coords="357,293,375,306,383,298,497,410,488,421,518,454,437,537,422,522,415,531,305,420,314,414,275,374"
-          class="area-pantryinfo"
-          data-poz="25"
-          data-section="Б"
-          data-amount="16"
-          data-marginleft="357"
-          data-margintop="369"
-          href="/pozitsiya-25---kladovye-pomescheniya/sektsiya-b/"/>
         <area
           shape="poly"
           coords="437,534,519,454,669,455,691,432,773,514,736,551,744,561,734,567,746,579,716,605,488,605,461,577,466,565"
           class="area-pantryinfo"
           data-poz="25"
           data-section="В"
-          data-amount="34"
+          data-amount="2"
           data-marginleft="557"
           data-margintop="498"
           href="/pozitsiya-25---kladovye-pomescheniya/sektsiya-v/"/>
-        <area
-          shape="poly"
-          coords="682,423,754,347,747,335,758,326,769,337,781,324,790,337,824,304,902,384,881,410,886,419,828,478,822,465,775,512"
-          class="area-pantryinfo"
-          data-poz="25"
-          data-section="Г"
-          data-amount="7"
-          data-marginleft="761"
-          data-margintop="375"
-          href="/pozitsiya-25---kladovye-pomescheniya/sektsiya-g/"/>
-        <area
-          shape="poly"
-          coords="808,295,880,218,868,205,879,191,897,209,921,187,928,196,951,172,970,187,977,183,986,192,978,196,1035,252,1010,278,1015,287,958,350,951,339,903,387"
-          class="area-pantryinfo"
-          data-poz="25"
-          data-section="Д"
-          data-amount="12"
-          data-marginleft="896"
-          data-margintop="252"
-          href="/pozitsiya-25---kladovye-pomescheniya/sektsiya-d/"/>
       </map>
     </div>
     <div class="garage-caption">

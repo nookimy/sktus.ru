@@ -41,9 +41,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <div class="area-hovers">
         <img data-src="/custom/sktus/img/poz6a/pantry/sections-6a-A.png" />
-        <img data-src="/custom/sktus/img/poz6a/pantry/sections-6a-B.png" />
-        <img data-src="/custom/sktus/img/poz6a/pantry/sections-6a-V.png" />
-        <img data-src="/custom/sktus/img/poz6a/pantry/sections-6a-G.png" />
       </div>
       <map name="areamap">
         <area
@@ -52,40 +49,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           class="area-pantryinfo"
           data-poz="6a"
           data-section="А"
-          data-amount="17"
+          data-amount="2"
           data-marginleft="145"
           data-margintop="232"
           href="/pozitsiya-6a---kladovye-pomescheniya/sektsiya-a/"/>
-        <area
-          shape="poly"
-          coords="301, 183, 495, 183, 494, 167, 556, 167, 557, 199, 534, 199, 534, 365, 500, 365, 500, 381, 338, 380, 337, 363, 301, 364"
-          class="area-pantryinfo"
-          data-poz="6a"
-          data-section="Б"
-          data-amount="23"
-          data-marginleft="398"
-          data-margintop="232"
-          href="/pozitsiya-6a---kladovye-pomescheniya/sektsiya-b/"/>
-        <area
-          shape="poly"
-          coords="559, 180, 624, 180, 624, 199, 686, 200, 685, 180, 731, 180, 730, 168, 796, 168, 796, 201, 774, 201, 774, 217, 806, 216, 815, 200, 837, 211, 768, 365, 736, 365, 736, 381, 574, 382, 577, 364, 537, 365, 537, 202, 559, 201"
-          class="area-pantryinfo"
-          data-poz="6a"
-          data-section="В"
-          data-amount="25"
-          data-marginleft="611"
-          data-margintop="232"
-          href="/pozitsiya-6a---kladovye-pomescheniya/sektsiya-v/"/>
-        <area
-          shape="poly"
-          coords="846, 195, 928, 235, 920, 252, 973, 278, 981, 261, 1100, 319, 1106, 304, 1160, 329, 1153, 349, 1136, 341, 1120, 375, 1134, 385, 1066, 527, 982, 485, 989, 468, 949, 449, 941, 464, 793, 395, 801, 380, 771, 367"
-          class="area-pantryinfo"
-          data-poz="6a"
-          data-section="Г"
-          data-amount="24"
-          data-marginleft="875"
-          data-margintop="294"
-          href="/pozitsiya-6a---kladovye-pomescheniya/sektsiya-g/"/>
       </map>
     </div>
     <div class="garage-caption">

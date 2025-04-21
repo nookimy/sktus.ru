@@ -41,8 +41,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <div class="area-hovers">
         <img data-src="/custom/sktus/img/poz7a/pantry/sections-7a-a.png" />
-        <img data-src="/custom/sktus/img/poz7a/pantry/sections-7a-b.png" />
-        <img data-src="/custom/sktus/img/poz7a/pantry/sections-7a-v.png" />
       </div>
       <map name="areamap">
         <area
@@ -51,30 +49,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           class="area-pantryinfo"
           data-poz="7a"
           data-section="А"
-          data-amount="26"
+          data-amount="5"
           data-marginleft="215"
           data-margintop="345"
           href="/pozitsiya-7a---kladovye-pomescheniya/sektsiya-a/"/>
-        <area
-          shape="poly"
-          coords="555, 269, 611, 269, 612, 295, 690, 296, 689, 268, 745, 269, 746, 253, 847, 253, 845, 268, 837, 267, 837, 291, 790, 292, 790, 501, 750, 501, 750, 525, 547, 525, 546, 501, 499, 503, 501, 297, 556, 295"
-          class="area-pantryinfo"
-          data-poz="7a"
-          data-section="Б"
-          data-amount="18"
-          data-marginleft="605"
-          data-margintop="345"
-          href="/pozitsiya-7a---kladovye-pomescheniya/sektsiya-b/"/>
-        <area
-          shape="poly"
-          coords="841, 271, 902, 271, 903, 295, 1036, 296, 1036, 253, 1149, 256, 1149, 298, 1114, 298, 1114, 365, 1092, 365, 1093, 503, 1043, 503, 1044, 523, 839, 524, 838, 501, 794, 502, 792, 295, 841, 295"
-          class="area-pantryinfo"
-          data-poz="7a"
-          data-section="В"
-          data-amount="17"
-          data-marginleft="895"
-          data-margintop="345"
-          href="/pozitsiya-7a---kladovye-pomescheniya/sektsiya-v/"/>
       </map>
     </div>
     <div class="garage-caption">

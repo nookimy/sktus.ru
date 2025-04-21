@@ -43,16 +43,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="pantryinfo-amount">Помещений в продаже: <span></span></p>
       </div>
       <div class="area-hovers">
-        <img data-src="/custom/sktus/img/poz4/pantry/section-a.png" />
         <img data-src="/custom/sktus/img/poz4/pantry/section-b.png" />
         <img data-src="/custom/sktus/img/poz4/pantry/section-v.png" />
-        <img data-src="/custom/sktus/img/poz4/pantry/section-g.png" />
       </div>
-      <map name="areamap">
-        <area shape="poly" coords="139,100,330,291,237,458,2,203,2,178" class="area-pantryinfo" data-poz="4" data-section="А"  data-amount="22" data-marginleft="121" data-margintop="212" href="/pozitsiya-4---kladovye-pomescheniya/sektsiya-a/"/>
-        <area shape="poly" coords="332,292,595,367,597,600,219,499" class="area-pantryinfo" data-poz="4" data-section="Б"  data-amount="43" data-marginleft="385" data-margintop="393" href="/pozitsiya-4---kladovye-pomescheniya/sektsiya-b/"/>
-        <area shape="poly" coords="600,367,865,294,985,501,600,601" class="area-pantryinfo" data-poz="4" data-section="В" data-amount="45" data-marginleft="718" data-margintop="402" href="/pozitsiya-4---kladovye-pomescheniya/sektsiya-v/"/>
-        <area shape="poly" coords="868,290,1060,100,1197,176,1199,197,1198,222,964,460" class="area-pantryinfo" data-poz="4" data-section="Г"  data-amount="29" data-marginleft="992" data-margintop="209" href="/pozitsiya-4---kladovye-pomescheniya/sektsiya-g/"/>
+      <map name="areamap">        
+        <area shape="poly" coords="332,292,595,367,597,600,219,499" class="area-pantryinfo" data-poz="4" data-section="Б"  data-amount="2" data-marginleft="385" data-margintop="393" href="/pozitsiya-4---kladovye-pomescheniya/sektsiya-b/"/>
+        <area shape="poly" coords="600,367,865,294,985,501,600,601" class="area-pantryinfo" data-poz="4" data-section="В" data-amount="3" data-marginleft="718" data-margintop="402" href="/pozitsiya-4---kladovye-pomescheniya/sektsiya-v/"/>
       </map>
     </div>
     <div class="garage-caption">
