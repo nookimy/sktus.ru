@@ -2806,9 +2806,9 @@ main h1 {
 
 .hover-info10 {
   display: block;
-  height: 90px;
-  margin-left: 823px;
-  margin-top: 285px;
+  height: 139px;
+  margin-left: 873px;
+  margin-top: 245px;
   background-image: url("../img/hover-info-yellow.png");
 }
 .hover-info10 div {
@@ -2899,14 +2899,14 @@ main h1 {
 
 .hover-info23 {
   display: block;
-  height: 120px;
+  height: 144px;
   margin-left: 720px;
-  margin-top: 207px;
-  background-image: url("../img/hover-info-yellow.png");
+  margin-top: 183px;
+  background-image: url("../img/hover-info-green.png");
 }
 .hover-info23 div {
   height: 66px;
-  background-color: #d0a157;
+  background-color: #33a109;
 }
 .hover-info24 {
   display: block;

@@ -64,7 +64,7 @@ if (!defined('DIAFAN')) {
         <i class="house-number house-number-green house-number-1">1</i>
         <i class="house-number house-number-green house-number-2">2</i>
         <i class="house-number house-number-green house-number-3">3</i>
-        <i class="house-number house-number-yellow house-number-23">23</i>
+        <i class="house-number house-number-green house-number-23">23</i>
         <i class="house-number house-number-yellow house-number-8a">8a</i>
     </div>
     <div class="object-numbers">
@@ -135,17 +135,20 @@ if (!defined('DIAFAN')) {
         data-position="1"
         data-address="Лукина, 16" 
         data-status="Дом сдан" 
-        data-apartments="Квартиры в продаже"
+        data-apartments="Осталось мало квартир"
         href="javascript:void()" onclick="pb_front_widget.show({houseId: 94127, accountId: 5828});"/>
 
     <area shape="poly"
         coords="411, 540, 432, 533, 432, 521, 475, 510, 490, 510, 491, 519, 543, 542, 545, 680, 473, 704, 418, 677" class="area-buble"
-        data-position="2" data-address="Лукина, 16" data-status="Дом сдан" data-apartments="Квартиры в продаже" href="javascript:void()"
+        data-position="2" 
+        data-address="Лукина, 16" 
+        data-status="Дом сдан" 
+        data-apartments="Осталось мало квартир" href="javascript:void()"
         onclick="pb_front_widget.show({houseId: 94198, accountId: 5828});"/>
 
     <area shape="poly"
         coords="300, 495, 317, 488, 319, 477, 361, 463, 375, 464, 376, 475, 428, 497, 425, 530, 410, 536, 411, 637, 393, 642, 391, 590, 335, 563, 336, 554, 302, 546" class="area-buble"
-        data-position="3" data-address="Лукина, 16" data-status="Дом сдан" data-apartments="Квартиры в продаже"
+        data-position="3" data-address="Лукина, 16" data-status="Дом сдан" data-apartments="Осталось мало квартир"
         href="javascript:void()" onclick="pb_front_widget.show({houseId: 94199, accountId: 5828});"/>
 
     <area shape="poly" coords="793, 163, 823, 158, 850, 160, 851, 196, 799, 198, 797, 277, 791, 271" class="area-buble"
@@ -158,7 +161,8 @@ if (!defined('DIAFAN')) {
     <area shape="poly"
       coords="822, 353, 841, 345, 847, 347, 865, 341, 869, 334, 927, 315, 929, 281, 938, 278, 945, 283, 953, 280, 960, 285, 968, 282, 970, 287, 973, 291, 972, 297, 980, 308, 974, 401, 925, 416, 925, 460, 861, 487, 817, 473" class="area-buble"
       data-position="23" 
-      data-status="Дом строится" 
+      data-address="Миначева, 13" 
+      data-status="Дом сдан" 
       data-apartments="Осталось мало квартир"
       href="javascript:void()" onclick="pb_front_widget.show({houseId: 104698, accountId: 5828});"/>
 
