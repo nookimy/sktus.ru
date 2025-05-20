@@ -54,15 +54,8 @@ if (!defined('DIAFAN')) {
   <i></i>
   <noindex><a class="badge-commercialreal-details" href="http://bz.sktus.ru/" target="_blank">Подробнее</a></noindex>
   <div>
-    <a href="/doma/universitetskaya-d-38-korp-1---kommercheskie-plosc/">Университетская, 38/1</a>
-    <a href="/doma/universitetskaya-d-38-korp-2---kommercheskie-plosc/pomeschenie-1">Университетская, 38/2</a>
-    <a href="/doma/pozitsiya-1---kommercheskie-ploschadi/pomeschenie-23/">Позиция №1 | Лукина, д.5</a>
-    <a href="/doma/lukina-3---kommercheskie-ploschadi/">Позиция №3 | Лукина, д.3</a>
-    <a href="/doma/pozitsiya-4---kommercheskie-ploschadi/">Позиция №4 | Миначева, д.25</a>
-    <a href="/doma/pozitsiya-5---kommercheskie-ploschadi/">Позиция №5 | Миначева, д.21</a>
-    <a href="/doma/pozitsiya-6a---kommercheskie-ploschadi/">Позиция №6а | Лукина, д.20</a>
     <a href="/doma/pozitsiya-7a---kommercheskie-ploschadi/">Позиция №7а | Лукина, д.18</a>
-    <a href="/doma/pozitsiya-26---kommercheskie-ploschadi/">Позиция №26 | Лукина, д.9</a>
+    <a href="/doma/pozitsiya-6a---kommercheskie-ploschadi/">Позиция №6а | Лукина, д.20</a>    
   </div>
 </div>
 <div class="cheb-jubilee cheb-jubilee--desktop">
