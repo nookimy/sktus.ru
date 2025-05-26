@@ -37,9 +37,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <main>
   	<!--Начало блока верхних баннеров-->
     <div class="slides">
-      <a class="slide1 active" href="https://sktus.ru/news/sosedstvo-vesele-i-radost-v-novom-dome-poz-8a/" target="_blank"></a>
-      <a class="slide8" href="https://sktus.ru/news/kvartira-dlya-lyubiteley-prostora/" target="_blank"></a>
-      <a class="slide3" href="https://sktus.ru/news/stroitelnaya-kompaniya-tus-otmechaet-30-let/" target="_blank"></a>
+      <a class="slide10 active" href="https://sktus.ru/news/33-goda-na-vysote-ao-sz-tus-osnovopolozhnik-komfor/" target="_blank"></a>
+      <a class="slide11" href="https://sktus.ru/mikrorayon-universitet/fotogalereya/" target="_blank"></a>
+      <a class="slide9" href="https://sktus.ru/mikrorayon-universitet/fotogalereya/#/profitbase/house/123499/facades?facadeId=55709&filter=property.status:AVAILABLE" target="_blank"></a>
     </div>
     <!--Конец блока верхних баннеров-->
     <insert name="show_include" file="start-page-map--ver<?php echo isset($_COOKIE['start-page-version']) ? $_COOKIE['start-page-version'] : '1';?>">

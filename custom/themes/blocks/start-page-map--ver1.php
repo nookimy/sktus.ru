@@ -60,7 +60,7 @@ if (!defined('DIAFAN')) {
     </div>
     <div class="house-numbers">
         <i class="house-number house-number-comfort house-number-10">10</i>
-        <i class="house-number house-number-gray house-number-11">11</i>
+        <i class="house-number house-number-yellow house-number-11">11</i>
         <i class="house-number house-number-green house-number-1">1</i>
         <i class="house-number house-number-green house-number-2">2</i>
         <i class="house-number house-number-green house-number-3">3</i>
@@ -128,7 +128,7 @@ if (!defined('DIAFAN')) {
         coords="1106, 353, 1126, 351, 1128, 332, 1163, 321, 1163, 302, 1203, 291, 1242, 302, 1242, 316, 1279, 325, 1272, 448, 1255, 460, 1241, 457, 1234, 461, 1216, 457, 1216, 445, 1183, 465, 1168, 457, 1158, 463, 1158, 474, 1144, 477, 1147, 371, 1108, 364" 
         class="area-buble area-bubble-nolink" 
         data-position="11" 
-        data-status="Проект"/>
+        data-status="Скоро в продаже"/>
 
     <area shape="poly"
         coords="252, 593, 267, 587, 269, 572, 327, 558, 389, 590, 396, 740, 314, 772, 260, 743" class="area-buble"
@@ -189,7 +189,7 @@ if (!defined('DIAFAN')) {
         data-apartments="Квартиры в продаже"
         href="javascript:void()" onclick="pb_front_widget.show({houseId: 113556, accountId: 5828});"/>
 
-    <area shape="poly" coords="369, 213, 549, 213, 548, 256, 568, 256, 568, 303, 489, 303, 489, 286, 436, 286, 391, 269, 362, 277, 357, 297, 343, 297, 344, 274" class="area-buble area-bubble-nolink" data-position="33" data-status="Строится!" data-apartments="Школа на 1500 мест" href="#"/>
+    <area shape="poly" coords="369, 213, 549, 213, 548, 256, 568, 256, 568, 303, 489, 303, 489, 286, 436, 286, 391, 269, 362, 277, 357, 297, 343, 297, 344, 274" class="area-buble area-bubble-nolink" data-position="33" data-status="Сдана" data-apartments="Школа на 1500 мест" href="#"/>
     <area shape="poly" coords="664, 357, 688, 351, 700, 360, 700, 349, 729, 342, 757, 351, 771, 345, 800, 351, 799, 363, 806, 364, 807, 399, 788, 407, 780, 405, 780, 396, 762, 395, 762, 405, 750, 409, 732, 403, 714, 407, 704, 403, 690, 405, 690, 412, 672, 415, 671, 367, 664, 366" class="area-buble area-bubble-nolink" data-position="34" data-address="Детский сад" data-status="Сдан"/>
     <area
             shape="poly"

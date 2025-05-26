@@ -53,24 +53,9 @@ if (!defined('DIAFAN')) {
   <i></i>
   <noindex><a class="badge-commercialreal-details" href="http://bz.sktus.ru/" target="_blank">Подробнее</a></noindex>
   <div>
-    <a href="/doma/pozitsiya-7a---kommercheskie-ploschadi/">Позиция №7а | Лукина, д.18</a>
-    <a href="/doma/pozitsiya-6a---kommercheskie-ploschadi/">Позиция №6а | Лукина, д.20</a>    
+    <a href="/doma/pozitsiya-7a---kommercheskie-ploschadi/">Лукина, д.18</a>
+    <a href="/doma/pozitsiya-6a---kommercheskie-ploschadi/">Лукина, д.20</a>    
   </div>
-</div>
-<div class="cheb-jubilee cheb-jubilee--desktop">
-    <a>
-        <picture>
-            <source type="image/webp" srcset="
-                /custom/sktus/img/badges/cheb-jubilee-logo-175@1x.webp 1x,
-                /custom/sktus/img/badges/cheb-jubilee-logo-175@2x.webp 2x,
-                /custom/sktus/img/badges/cheb-jubilee-logo-175@3x.webp 3x">
-            <source type="image/jpeg" srcset="
-                /custom/sktus/img/badges/cheb-jubilee-logo-175@1x.png 1x,
-                /custom/sktus/img/badges/cheb-jubilee-logo-175@2x.png 2x,
-                /custom/sktus/img/badges/cheb-jubilee-logo-175@3x.png 3x">
-            <img src="/custom/sktus/img/badges/cheb-jubilee-logo.png" alt="Логотип Чебоксарам 555 лет">
-        </picture>
-    </a>
 </div>
 <a class="badge-heart" href="https://sktus.ru/o-zastroyschike/nashi-dobrye-dela/"></a>
 <a class="badge-spec" href="/spetspredlozheniya/" title="Специальные предложения">
