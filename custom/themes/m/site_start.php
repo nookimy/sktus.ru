@@ -39,94 +39,9 @@ if (!defined("DIAFAN")) {
 <insert name="show_include" file="mheader1">
   <main>
     <div class="slider">
-      <div class="cheb-jubilee cheb-jubilee--mobile">
-          <a>
-              <picture>
-                  <source type="image/webp" srcset="
-                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@1x.webp 1x,
-                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@2x.webp 2x,
-                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@3x.webp 3x">
-                  <source type="image/jpeg" srcset="
-                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@1x.png 1x,
-                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@2x.png 2x,
-                      ../custom/sktus/img/badges/cheb-jubilee-logo-175@3x.png 3x">
-                  <img class="cheb-jubilee__img" src="../custom/sktus/img/badges/cheb-jubilee-logo.png" alt="">
-              </picture>
-          </a>
-      </div>
-      <div class="owl-carousel owl-theme">
-        <picture>
-          <source type="image/webp" media="(min-width: 1200px)" srcset="./img/slider/poz123-1200@3.webp 3x,
-                                                                    ./img/slider/poz123-1200@2.webp 2x,
-                                                                    ./img/slider/poz123-1200.webp">
-          <source type="image/webp" media="(min-width: 750px)" srcset="./img/slider/poz123-992@3.webp 3x,
-                                                                   ./img/slider/poz123-992@2.webp 2x,
-                                                                   ./img/slider/poz123-992.webp">
-          <source type="image/webp" media="(max-width: 749px)" srcset="./img/slider/poz123-768@3.webp 3x,
-                                                                   ./img/slider/poz123-768@2.webp 2x,
-                                                                   ./img/slider/poz123-768.webp">
-          <source media="(min-width: 992px)" srcset="./img/slider/poz123-1200@3.jpeg 3x,
-                                                 ./img/slider/poz123-1200@2.jpeg 2x,
-                                                 ./img/slider/poz123-1200.jpeg">
-          <source media="(min-width: 768px)" srcset="./img/slider/poz123-992@3.jpeg 3x,
-                                                 ./img/slider/poz123-992@2.jpeg 2x,
-                                                 ./img/slider/poz123-992.jpeg">
-          <source media="(min-width: 320px)" srcset="./img/slider/poz123-768@3.jpeg 3x,
-                                                 ./img/slider/poz123-768@2.jpeg 2x,
-                                                 ./img/slider/poz123-768.jpeg">
-          <img src="./img/slider/poz123-768.jpeg" alt="Фасады домов позиций 1-2-3">
-        </picture>
-        <picture>
-          <source type="image/webp" media="(min-width: 1200px)" srcset="./img/slider/poz26-1200@3.webp 3x,
-                                                                      ./img/slider/poz26-1200@2.webp 2x,
-                                                                      ./img/slider/poz26-1200.webp">
-          <source type="image/webp" media="(min-width: 750px)" srcset="./img/slider/poz26-992@3.webp 3x,
-                                                                     ./img/slider/poz26-992@2.webp 2x,
-                                                                     ./img/slider/poz26-992.webp">
-          <source type="image/webp" media="(max-width: 749px)" srcset="./img/slider/poz26-768@3.webp 3x,
-                                                                     ./img/slider/poz26-768@2.webp 2x,
-                                                                     ./img/slider/poz26-768.webp">
-          <source media="(min-width: 992px)" srcset="./img/slider/poz26-1200@3.jpeg 3x,
-                                                   ./img/slider/poz26-1200@2.jpeg 2x,
-                                                   ./img/slider/poz26-1200.jpeg">
-          <source media="(min-width: 768px)" srcset="./img/slider/poz26-992@3.jpeg 3x,
-                                                   ./img/slider/poz26-992@2.jpeg 2x,
-                                                   ./img/slider/poz26-992.jpeg">
-          <source media="(min-width: 320px)" srcset="./img/slider/poz26-768@3.jpeg 3x,
-                                                   ./img/slider/poz26-768@2.jpeg 2x,
-                                                   ./img/slider/poz26-768.jpeg">
-          <img src="./img/slider/poz26-768.jpeg" alt="Фасад дома позиция 26">
-        </picture>
-      </div>
+<insert name="show_block" module="photo" site_id="153" count="100" template="mob1">
     </div>
-    <section class="action">
-      <div class="action__wrap">
-        <h2 class="visually-hidden">Специальные предложения</h2>
-        <ul class="action__list owl-carousel owl-theme">
-        <li class="action__item">
-            <a href="https://sktus.ru/m/news/sosedstvo-vesele-i-radost-v-novom-dome-poz-8a/">
-              <h3 class="visually-hidden">Выбери свою квартиру в позиции 8а</h3>
-              
-              <picture>
-                <img class="slider__image" src="/img/action/poz8a-mob.png"
-                     alt="Просторная квартира">
-              </picture>
-            </a>
-          </li>
-        <li class="action__item">
-            <a href="https://sktus.ru/m/news/kvartira-dlya-lyubiteley-prostora/">
-              <h3 class="visually-hidden">Просторная квартира</h3>
-              
-              <picture>
-                <img class="slider__image" src="/img/action/prostornaya-kvartira-mob.png"
-                     alt="Просторная квартира">
-              </picture>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </section>
-
+<insert name="show_block" module="photo" site_id="154" count="100" template="mob2">    
     <section class="features" id="about">
       <div class="page__wrap">
         <h2 class="page__subtitle">В микрорайоне</h2>
