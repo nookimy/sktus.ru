@@ -391,7 +391,7 @@ body.bluebg {
 }
 
 .badge-parking div {
-  min-height: 72px;
+  min-height: 150px;
 }
 .badge-commercial a,
 .badge-parking a {
