@@ -91,11 +91,17 @@ if (!defined("DIAFAN")) {
         <h2 class="page__subtitle">Дома в продаже:</h2>
         <ul class="on-sale__list" id="building-list">
             <li class="on-sale__item on-sale__item--increased-comfort">
-            <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 123499, accountId: 5828})">
-              <h3>10</h3>
-              <span>1 кв. 2027</span>
-            </a>
-          </li>
+              <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 139181, accountId: 5828})">
+                <h3>11</h3>
+                <span>1 кв. 2027</span>
+              </a>
+            </li>
+        <li class="on-sale__item on-sale__item--increased-comfort">
+              <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 123499, accountId: 5828})">
+                <h3>10</h3>
+                <span>1 кв. 2027</span>
+              </a>
+            </li>
         <li class="on-sale__item on-sale__item--increased-comfort">
             <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 113556, accountId: 5828});">
               <h3>8a</h3>
