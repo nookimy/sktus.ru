@@ -59,8 +59,8 @@ if (!defined('DIAFAN')) {
         <img data-src="/custom/sktus/img/hover-parking-lukina20.png" />
     </div>
     <div class="house-numbers">
-        <i class="house-number house-number-comfort house-number-10">10</i>
-        <i class="house-number house-number-yellow house-number-11">11</i>
+        <i class="house-number house-number-yellow house-number-10">10</i>
+        <i class="house-number house-number-comfort house-number-11">11</i>
         <i class="house-number house-number-green house-number-1">1</i>
         <i class="house-number house-number-green house-number-2">2</i>
         <i class="house-number house-number-green house-number-3">3</i>
@@ -126,9 +126,10 @@ if (!defined('DIAFAN')) {
 
     <area shape="poly" 
         coords="1106, 353, 1126, 351, 1128, 332, 1163, 321, 1163, 302, 1203, 291, 1242, 302, 1242, 316, 1279, 325, 1272, 448, 1255, 460, 1241, 457, 1234, 461, 1216, 457, 1216, 445, 1183, 465, 1168, 457, 1158, 463, 1158, 474, 1144, 477, 1147, 371, 1108, 364" 
-        class="area-buble area-bubble-nolink" 
-        data-position="11" 
-        data-status="Скоро в продаже"/>
+        class="area-buble" 
+        data-position="11"
+        data-apartments="Квартиры в продаже"
+        href="javascript:void()" onclick="pb_front_widget.show({houseId: 139181, accountId: 5828});"/>
 
     <area shape="poly"
         coords="252, 593, 267, 587, 269, 572, 327, 558, 389, 590, 396, 740, 314, 772, 260, 743" class="area-buble"
@@ -185,7 +186,7 @@ if (!defined('DIAFAN')) {
         coords="723, 525, 778, 506, 842, 527, 843, 652, 789, 672, 722, 644" 
         class="area-buble" 
         data-position="8a" 
-        data-status="Дом строится" 
+        data-status="Дом сдан" 
         data-apartments="Квартиры в продаже"
         href="javascript:void()" onclick="pb_front_widget.show({houseId: 113556, accountId: 5828});"/>
 
@@ -202,3 +203,15 @@ if (!defined('DIAFAN')) {
           href="javascript:void()" onclick="pb_front_widget.show({houseId: 106066, accountId: 5828});"/>
   </map>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll("map[name='areamap'] area").forEach(function(area) {
+    let coords = area.coords.split(",").map((c, i) => {
+      c = parseInt(c.trim(), 10);
+      return (i % 2 === 0) ? c - 100 : c;
+    });
+    area.coords = coords.join(",");
+  });
+});
+</script>
