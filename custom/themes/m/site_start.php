@@ -499,20 +499,21 @@ if (!defined("DIAFAN")) {
           </div>
           <div class="documents__folder">
             <div class="documents__folder-heading documents__folder-heading--in">
-              <a>Документы по позиции 11 <span>6 файлов</span></a>
+              <a>Документы по позиции 11 <span>7 файлов</span></a>
             </div>
             <ul class="documents__list">
               <li><a href="/userfiles/doc/poz11/Заключение%20ПД%20и%20ИЗ%20поз.%2011%2027.05.24.pdf" class="document-pdf" target="_blank">Заключение ПД и ИЗ поз. 11 27.05.24</a></li>
               <li><a href="/userfiles/doc/poz11/Разрешение%20на%20строительство.pdf" class="document-pdf" target="_blank">Разрешение на строительство</a></li>
               <li><a href="/userfiles/doc/poz11/Извещение_о_начале_строительства.pdf" class="document-pdf" target="_blank">Извещение о начале строительства</a></li>
               <li><a href="/userfiles/doc/poz11/Типовая%20форма%20ДДУ.pdf" class="document-pdf" target="_blank">Типовая форма ДДУ</a></li>
+              <li><a href="/userfiles/doc/poz11/poz11-tipovaya-forma-ddu.pdf" class="document-pdf" target="_blank">Типовая форма ДДУ в нов. ред.</a></li>
               <li><a href="/userfiles/doc/poz11/Проектная%20декларация%20поз.%2011.pdf" class="document-pdf" target="_blank">Проектная декларация поз. 11</a></li>
               <li><a href="/userfiles/doc/poz11/Заключение%20ПД%20%20поз.%2011,%2011а%2018.10.24.pdf" class="document-pdf" target="_blank">Заключение ПД поз. 11, 11а 18.10.24</a></li>
             </ul>
           </div>
           <div class="documents__folder">
             <div class="documents__folder-heading documents__folder-heading--in">
-              <a>Документы по позиции 10 <span>8 файлов</span></a>
+              <a>Документы по позиции 10 <span>10 файлов</span></a>
             </div>
             <ul class="documents__list">
               <li><a href="/userfiles/doc/poz10/3990vysotnayazastrojkatus.pdf" class="document-pdf" target="_blank">3990_высотная застройка_ТУС</a></li>
@@ -522,6 +523,7 @@ if (!defined("DIAFAN")) {
               <li><a href="/userfiles/doc/poz10/poz10-zaklyuchenie-ekspertizy-pd.pdf" class="document-pdf" target="_blank">Заключение экспертизы_ПД</a></li>
               <li><a href="/userfiles/doc/poz10/poz10-izveshchenie-o-nachale-stroitelstva.pdf" class="document-pdf" target="_blank">Извещение о начале строительства</a></li>
               <li><a href="/userfiles/doc/poz10/poz10-pd.pdf" class="document-pdf" target="_blank">Проектная декларация поз. 10</a></li>
+              <li><a href="/userfiles/doc/poz10/poz10-pd-izm-ot-22092025.pdf" class="document-pdf" target="_blank">Проектная декларация поз. 10 изм. от 22.09.2025</a></li>
               <li><a href="/userfiles/doc/poz10/poz10-razreshenie-na-stroitelstvo.pdf" class="document-pdf" target="_blank">Разрешение на строительство с изм. от 17.10.2024</a></li>
               <li><a href="/userfiles/doc/poz10/poz10-tipovaya-forma-ddu.pdf" class="document-pdf" target="_blank">Типовая форма ДДУ</a></li>
 
