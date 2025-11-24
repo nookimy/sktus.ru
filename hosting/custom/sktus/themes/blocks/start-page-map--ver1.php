@@ -65,7 +65,6 @@ if (!defined('DIAFAN')) {
         <i class="house-number house-number-green house-number-2">2</i>
         <i class="house-number house-number-green house-number-3">3</i>
         <i class="house-number house-number-green house-number-23">23</i>
-        <i class="house-number house-number-yellow house-number-8a">8a</i>
     </div>
     <div class="object-numbers">
         <i class="object-number object-school object-number-1"></i>
@@ -187,8 +186,7 @@ if (!defined('DIAFAN')) {
         class="area-buble" 
         data-position="8a" 
         data-status="Дом сдан" 
-        data-apartments="Квартиры в продаже"
-        href="javascript:void()" onclick="pb_front_widget.show({houseId: 113556, accountId: 5828});"/>
+        data-apartments="Квартиры проданы"/>
 
     <area shape="poly" coords="369, 213, 549, 213, 548, 256, 568, 256, 568, 303, 489, 303, 489, 286, 436, 286, 391, 269, 362, 277, 357, 297, 343, 297, 344, 274" class="area-buble area-bubble-nolink" data-position="33" data-status="Сдана" data-apartments="Школа на 1500 мест" href="#"/>
     <area shape="poly" coords="664, 357, 688, 351, 700, 360, 700, 349, 729, 342, 757, 351, 771, 345, 800, 351, 799, 363, 806, 364, 807, 399, 788, 407, 780, 405, 780, 396, 762, 395, 762, 405, 750, 409, 732, 403, 714, 407, 704, 403, 690, 405, 690, 412, 672, 415, 671, 367, 664, 366" class="area-buble area-bubble-nolink" data-position="34" data-address="Детский сад" data-status="Сдан"/>
