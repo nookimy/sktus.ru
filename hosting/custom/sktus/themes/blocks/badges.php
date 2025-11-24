@@ -65,4 +65,3 @@ if (!defined('DIAFAN')) {
         M-175.9,364.9h140.9v113h-140.9l-34.1-58.2L-175.9,364.9z"/>
     </svg>
 </a>
-<a class="badge-ipoteka" href="/mikrorayon-universitet/ipoteka/"><strong>Ипотека, </strong>рассрочка</a>
