@@ -36,11 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </menu>
   <main>
   	<!--Начало блока верхних баннеров-->
-    <div class="slides">
-      <a class="slide10 active" href="https://sktus.ru/news/33-goda-na-vysote-ao-sz-tus-osnovopolozhnik-komfor/" target="_blank"></a>
-      <a class="slide11" href="https://sktus.ru/mikrorayon-universitet/fotogalereya/" target="_blank"></a>
-      <a class="slide9" href="https://sktus.ru/mikrorayon-universitet/fotogalereya/#/profitbase/house/123499/facades?facadeId=55709&filter=property.status:AVAILABLE" target="_blank"></a>
-    </div>
+<insert name="show_block" module="photo" site_id="152" count="100" template="slider">
     <!--Конец блока верхних баннеров-->
     <insert name="show_include" file="start-page-map--ver<?php echo isset($_COOKIE['start-page-version']) ? $_COOKIE['start-page-version'] : '1';?>">
   </main>
