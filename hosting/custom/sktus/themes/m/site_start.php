@@ -102,12 +102,7 @@ if (!defined("DIAFAN")) {
                 <span>1 кв. 2027</span>
               </a>
             </li>
-        <li class="on-sale__item on-sale__item--increased-comfort">
-            <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 113556, accountId: 5828});">
-              <h3>8a</h3>
-              <span>4 кв. 2025</span>
-            </a>
-          </li>
+
           <li class="on-sale__item">
             <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 104698, accountId: 5828});">
               <h3>23</h3>
