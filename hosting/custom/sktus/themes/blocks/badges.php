@@ -36,7 +36,6 @@ if (!defined('DIAFAN')) {
 <div title="Подземная парковка" class="badge-parking">
   <i></i>
   <div>
-    <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 138747, accountId: 5828});">Миначева 13А</a>
     <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 138746, accountId: 5828});">Позиция 10</a>
     <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 106308, accountId: 5828});">Миначева 15Б</a>    
     <a href="javascript:void()" onclick="pb_front_widget.show({houseId: 106066, accountId: 5828});">Лукина 18/20</a>
