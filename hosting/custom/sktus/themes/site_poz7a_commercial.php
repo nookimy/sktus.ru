@@ -45,7 +45,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <map name="areamap">
         <area shape="poly" coords="49,184,110,186,111,170,208,170,207,186,255,186,256,206,323,206,323,185,371,186,371,171,470,170,469,206,417,214,420,432,164,433,164,456,49,454,48,403,32,402,35,231,48,230" class="area-pantryinfo" data-poz="7a" data-section="А"  data-amount="2" data-marginleft="207" data-margintop="265" href="/doma/pozitsiya-7a---kommercheskie-ploschadi/sektsiya-a/"/>
-        <area shape="poly" coords="420,205,462,206,463,184,629,185,630,170,716,170,715,186,766,185,765,206,832,204,831,184,881,185,881,170,978,171,980,209,949,210,948,248,929,248,930,319,949,319,952,450,899,450,897,463,666,465,665,430,417,430" class="area-pantryinfo" data-poz="7a" data-section="Б-В"  data-amount="4" data-marginleft="640" data-margintop="265" href="/doma/pozitsiya-7a---kommercheskie-ploschadi/sektsiya-b-v/"/>
+        <area shape="poly" coords="420,205,462,206,463,184,629,185,630,170,716,170,715,186,766,185,765,206,832,204,831,184,881,185,881,170,978,171,980,209,949,210,948,248,929,248,930,319,949,319,952,450,899,450,897,463,666,465,665,430,417,430" class="area-pantryinfo" data-poz="7a" data-section="Б-В"  data-amount="3" data-marginleft="640" data-margintop="265" href="/doma/pozitsiya-7a---kommercheskie-ploschadi/sektsiya-b-v/"/>
       </map>
     </div>
     <div class="garage-caption">

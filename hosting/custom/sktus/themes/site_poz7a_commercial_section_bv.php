@@ -45,13 +45,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img data-src="/custom/sktus/img/poz7a/commercial/section-BV-1.png" />
         <img data-src="/custom/sktus/img/poz7a/commercial/section-BV-2.png" />
         <img data-src="/custom/sktus/img/poz7a/commercial/section-BV-3.png" />
-        <img data-src="/custom/sktus/img/poz7a/commercial/section-BV-4.png" />
       </div>
       <map name="areamap">
         <area shape="poly" coords="46,68,174,67,174,206,229,206,228,317,172,316,172,346,110,346,110,318,46,318" class="area-pantryplace area-commercialplace" data-number="3" data-square="105.2" data-marginleft="81" data-margintop="182" href="#"/>
         <area shape="poly" coords="291,66,420,67,420,317,354,316,354,346,293,346,292,316,238,318,237,206,290,206" class="area-pantryplace area-commercialplace" data-number="4" data-square="105.3" data-marginleft="343" data-margintop="182" href="#"/>
         <area shape="poly" coords="430,67,558,67,558,206,613,204,613,317,555,316,557,346,491,348,492,316,429,316" class="area-pantryplace area-commercialplace" data-number="5" data-square="105.6" data-marginleft="463" data-margintop="182" href="#"/>
-        <area shape="poly" coords="674,66,804,68,805,318,740,317,739,346,676,346,678,318,621,318,619,205,674,205" class="area-pantryplace area-commercialplace" data-number="6" data-square="104.3" data-marginleft="727" data-margintop="182" href="#"/>
       </map>
     </div>
     <div class="garage-caption garage-place-caption">
