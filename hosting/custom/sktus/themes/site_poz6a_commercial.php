@@ -43,13 +43,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="pantryinfo-amount">Помещений в продаже: <span></span></p>
       </div>
       <div class="area-hovers">
-        <img data-src="/custom/sktus/img/poz6a/commercial/section-AB.png" />
-        <img data-src="/custom/sktus/img/poz6a/commercial/section-V.png" />
         <img data-src="/custom/sktus/img/poz6a/commercial/section-G.png" />
       </div>
       <map name="areamap">
-        <area shape="poly" coords="125,175,520,176,520,205,508,204,508,367,158,370,157,235,149,235,149,200,124,203" class="area-pantryinfo" data-poz="6a" data-section="А-Б"  data-amount="4" data-marginleft="297" data-margintop="227" href="/doma/pozitsiya-6a---kommercheskie-ploschadi/sektsiya-ab/"/>
-        <area shape="poly" coords="505,366,505,177,696,177,696,200,707,198,732,212,673,350,559,350,558,367" class="area-pantryinfo" data-poz="6a" data-section="В"  data-amount="2" data-marginleft="563" data-margintop="227" href="/doma/pozitsiya-6a---kommercheskie-ploschadi/sektsiya-v/"/>
         <area shape="poly" coords="736,197,922,286,925,275,964,296,898,441,839,412,830,430,668,348" class="area-pantryinfo" data-poz="6a" data-section="Г"  data-amount="2" data-marginleft="751" data-margintop="264" href="/doma/pozitsiya-6a---kommercheskie-ploschadi/sektsiya-g/"/>
       </map>
     </div>

@@ -42,11 +42,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p><strong></strong><span><i></i>м<sup>2</sup></span></p>
       </div>
       <div class="area-hovers">
-        <img data-src="/custom/sktus/img/poz6a/commercial/section-G-1.png" />
         <img data-src="/custom/sktus/img/poz6a/commercial/section-G-2.png" />
       </div>
       <map name="areamap">
-        <area shape="poly" coords="136,72,270,74,269,214,326,212,325,330,268,330,268,359,204,359,202,330,136,331" class="area-pantryplace area-commercialplace" data-number="7" data-square="103,34" data-marginleft="206" data-margintop="218" href="#"/>
         <area shape="poly" coords="392,73,472,74,472,40,669,40,668,116,698,115,698,358,566,360,563,329,458,330,460,360,395,359,394,328,336,330,334,213,390,210" class="area-pantryplace area-commercialplace" data-number="8" data-square="232,81" data-marginleft="490" data-margintop="218" href="#"/>
       </map>
     </div>
