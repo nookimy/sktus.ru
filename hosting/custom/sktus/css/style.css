@@ -1794,6 +1794,11 @@ main h1 {
   margin-top: 888px;
 }
 
+.object-number-6 {
+  margin-left: 1185px;
+  margin-top: 531px;
+}
+
 .house-number-comfort {
   background-color: #d6230e;
   animation-name: comfort;
@@ -3017,6 +3022,18 @@ main h1 {
   background-image: url("../img/hover-info-red.png");
 }
 .hover-info36 div {
+  height: 146px;
+  background-color: #b73f24;
+}
+
+.hover-info10a {
+  display: block;
+  height: 169px;
+  margin-left: 382px;
+  margin-top: 716px;
+  background-image: url("../img/hover-info-red.png");
+}
+.hover-info10a div {
   height: 146px;
   background-color: #b73f24;
 }

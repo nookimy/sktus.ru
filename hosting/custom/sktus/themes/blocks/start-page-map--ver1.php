@@ -57,6 +57,7 @@ if (!defined('DIAFAN')) {
         <img data-src="/custom/sktus/img/hover-detsad-2024.png" />
         <img data-src="/custom/sktus/img/hover-detsad2.png" />
         <img data-src="/custom/sktus/img/hover-parking-lukina20.png" />
+        <img data-src="/custom/sktus/img/hover-parking-poz10a.png" />
     </div>
     <div class="house-numbers">
         <i class="house-number house-number-yellow house-number-10">10</i>
@@ -72,6 +73,7 @@ if (!defined('DIAFAN')) {
         <i class="object-number object-playground object-number-3"></i>
         <i class="object-number object-playground object-number-4"></i>
         <i class="object-number object-parking object-number-5"></i>
+        <i class="object-number object-parking object-number-6"></i>
     </div>
     <div class="comfort-class comfort-class--start">
         <i class="house-comfort">Продажи открыты!</i>
@@ -199,6 +201,10 @@ if (!defined('DIAFAN')) {
           coords="410, 923, 570, 853, 698, 919, 699, 932, 464, 969, 410, 937"
           class="area-buble" data-position="36" data-address="Паркинг" data-status="Парковочные места" data-apartments="в продаже"
           href="javascript:void()" onclick="pb_front_widget.show({houseId: 106066, accountId: 5828});"/>
+    <area shape="poly"
+        coords="1441,641,1561,575,1655,599,1644,636,1627,651,1529,672"
+        class="area-buble" data-position="10a" data-address="Паркинг" data-status="Парковочные места" data-apartments="в продаже"
+           href="javascript:void()" onclick="pb_front_widget.show({houseId: 138746, accountId: 5828});"/>
   </map>
 </div>
 
