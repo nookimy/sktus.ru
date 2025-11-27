@@ -68,7 +68,7 @@ if (!defined("DIAFAN")) {
             <svg width="50px" height="50px">
               <use xlink:href="#icon-backpack"></use>
             </svg>
-            <h3>1 школа рядом ( +1 новая школа на 1500 мест, сдача 2024 г.)</h3>
+            <h3>Новая школа на 1500 мест (Гимназия №2)</h3>
           </li>
           <li class="features__item wow animate__animated animate__flipInX">
             <svg width="50px" height="50px">

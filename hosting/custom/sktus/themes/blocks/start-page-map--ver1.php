@@ -202,7 +202,7 @@ if (!defined('DIAFAN')) {
           class="area-buble" data-position="36" data-address="Паркинг" data-status="Парковочные места" data-apartments="в продаже"
           href="javascript:void()" onclick="pb_front_widget.show({houseId: 106066, accountId: 5828});"/>
     <area shape="poly"
-        coords="1441,641,1561,575,1655,599,1644,636,1627,651,1529,672"
+        coords="1082,574,1195,511,1291,537,1284,573,1262,587,1162,607"
         class="area-buble" data-position="10a" data-address="Паркинг" data-status="Парковочные места" data-apartments="в продаже"
            href="javascript:void()" onclick="pb_front_widget.show({houseId: 138746, accountId: 5828});"/>
   </map>
