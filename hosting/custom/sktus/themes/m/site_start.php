@@ -411,7 +411,7 @@ if (!defined("DIAFAN")) {
           </div>
           <div class="documents__folder">
             <div class="documents__folder-heading documents__folder-heading--in">
-              <a>Документы по позиции 10 <span>11 файлов</span></a>
+              <a>Документы по позиции 10 <span>12 файлов</span></a>
             </div>
             <ul class="documents__list">
               <li><a href="/userfiles/doc/poz10/3990vysotnayazastrojkatus.pdf" class="document-pdf" target="_blank">3990_высотная застройка_ТУС</a></li>
@@ -422,6 +422,7 @@ if (!defined("DIAFAN")) {
               <li><a href="/userfiles/doc/poz10/poz10-izveshchenie-o-nachale-stroitelstva.pdf" class="document-pdf" target="_blank">Извещение о начале строительства</a></li>
               <li><a href="/userfiles/doc/poz10/poz10-pd.pdf" class="document-pdf" target="_blank">Проектная декларация поз. 10</a></li>
               <li><a href="/userfiles/doc/poz10/poz10-pd-izm-ot-22092025.pdf" class="document-pdf" target="_blank">Проектная декларация поз. 10 изм. от 22.09.2025</a></li>
+              <li><a href="/userfiles/doc/poz10/poz10-razreshenie-na-vvod.pdf" class="document-pdf" target="_blank">Разрешение на ввод объекта в эксплуатацию</a></li>
               <li><a href="/userfiles/doc/poz10/poz10-razreshenie-na-stroitelstvo.pdf" class="document-pdf" target="_blank">Разрешение на строительство с изм. от 17.10.2024</a></li>
               <li><a href="/userfiles/doc/poz10/poz10-tipovaya-forma-ddu.pdf" class="document-pdf" target="_blank">Типовая форма ДДУ</a></li>
               <li><a href="/userfiles/doc/poz10/poz10-tipovaya-forma-ddu-nov-red.pdf" class="document-pdf" target="_blank">Типовая форма ДДУ в нов. ред.</a></li>
